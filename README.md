@@ -35,12 +35,12 @@ I have participated as a speaker at: Covalence in San Francisco, Dev Around the 
 paypal.me/eleftheriabatsou but If you can't that's ok too!
 
 🙆Let's stay in touch: 
-twitter -- https://twitter.com/BatsouElef
-instagram -- https://www.instagram.com/elef_in_tech
-website -- http://eleftheriabatsou.com/
-codepen -- http://codepen.io/EleftheriaBatsou
-linkedIn -- https://www.linkedin.com/in/eleftheriabatsou
-github -- https://github.com/EleftheriaBatsou
+- twitter - https://twitter.com/BatsouElef
+- instagram - https://www.instagram.com/elef_in_tech
+- website - http://eleftheriabatsou.com/
+- codepen - http://codepen.io/EleftheriaBatsou
+- linkedIn - https://www.linkedin.com/in/eleftheriabatsou
+- github - https://github.com/EleftheriaBatsou
 <!--
 **EleftheriaBatsou/EleftheriaBatsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
