@@ -37,6 +37,7 @@ paypal.me/eleftheriabatsou but If you can't that's ok too!
 🙆Let's stay in touch: 
 - twitter - https://twitter.com/BatsouElef
 - instagram - https://www.instagram.com/elef_in_tech
+- blog - https://eleftheriabatsou.hashnode.dev
 - website - http://eleftheriabatsou.com/
 - codepen - http://codepen.io/EleftheriaBatsou
 - linkedIn - https://www.linkedin.com/in/eleftheriabatsou
