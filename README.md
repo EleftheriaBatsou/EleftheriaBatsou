@@ -1,4 +1,4 @@
-### Hi there, I 'm Eleftheria, a developer and public speaker 👋
+### Hi there, I 'm Eleftheria, a Community Manager at Hashnode, a developer and public speaker 👋
 
 I love using technology-based solutions to help solve real-world challenges. I like learning and sharing my knowledge about web and app development, UX research, design and visual arts.
 
@@ -19,7 +19,7 @@ I love using technology-based solutions to help solve real-world challenges. I l
 - I 'm classical girl who loves chocolate and flowers
 
 
-🌱THAT'S ME
+🌱 THAT'S ME
 - Currently working as a developer and frequently freelancing as a designer and video editor.
 - I am doing a master's in Graphical Art and Multimedia while I have major in Informatics and Telecommunications of Engineering.
 - My side projects include creating educational youtube videos, writing tech articles, mentoring code newbies and aspiring developers.
@@ -31,8 +31,6 @@ At first, it can be quite nerve-racking but after you meet a few people you forg
 
 I have participated as a speaker at: Covalence in San Francisco, Dev Around the sun Global event, Developer Circles by Facebook in Nigeria (remotely), HackWeek in Poland, Confrontjs in Poland, Let’s test in South Africa, Devops Unicorns in Latvia, CFCamp in Germany, PyWebConf in Germany, AppForum, Zebra in Poland, IWD19 Nigeria (remotely), UUDF in the Netherlands, codegarden18 in Denmark, Virtual Azure Community Day in the Netherlands (remotely), DF20 in the Netherlands (remotely), JNation 2020 in Portugal (remotely), JSNation 2020 in the Netherlands (remotely), FemTechConf 2020 Global event, and in many more.
 
-🍪Buy me a coffee? You can do it here   
-paypal.me/eleftheriabatsou but If you can't that's ok too!
 
 🙆Let's stay in touch: 
 - twitter - https://twitter.com/BatsouElef
