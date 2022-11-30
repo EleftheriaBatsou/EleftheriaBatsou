@@ -1,4 +1,4 @@
-### Hi there, I 'm Eleftheria, a Community Manager at Hashnode, a developer, UXer and public speaker 👋
+### Hi there, I 'm Eleftheria, a Community Manager at Hashnode, a developer and public speaker 👋
 
 I love using technology-based solutions to help solve real-world challenges. I like learning and sharing my knowledge about web and app development, UX research, design and visual arts.
 
@@ -41,10 +41,12 @@ I have participated as a speaker at: Covalence in San Francisco, Dev Around the 
 - [linkedIn](https://www.linkedin.com/in/eleftheriabatsou)
 - [github](https://github.com/EleftheriaBatsou)
 
-[![](https://tweeco.pushkaryadav.in/api/handle/BatsouElef)](https://tweeco.pushkaryadav.in)
+
 
 <!--
 **EleftheriaBatsou/EleftheriaBatsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![](https://tweeco.pushkaryadav.in/api/handle/BatsouElef)](https://tweeco.pushkaryadav.in)
 
 Here are some ideas to get you started:
 
