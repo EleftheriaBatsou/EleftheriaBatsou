@@ -1,4 +1,4 @@
-### Hi there, I 'm Eleftheria, a Community manager with a coding background, keen on UX research and public speakering 👋
+#### Hi there, I'm Eleftheria, a Community manager with a coding background, keen on UX research and public speakering 👋
 
 #### About
 I'm working in the field of tech since 2017. I like researching and getting to know how things started or how I could improve them! I like learning and sharing my knowledge about development/research/design and visual arts. I also try to promote my passions through [videos](https://www.youtube.com/c/eleftheriabatsou) and [articles](https://blog.eleftheriabatsou.com/). My hobbies include travelling and working out. 
@@ -22,8 +22,9 @@ I'm working in the field of tech since 2017. I like researching and getting to k
 - My studies include a master's in Graphical Art and Multimedia while I have major in Informatics and Telecommunications of Engineering.
 - My "side projects" are creating youtube videos, writing tech articles, mentoring code newbies etc.
 
+---
 
-### 🎤 Sometimes I speak at conferences! 
+#### 🎤 Sometimes I speak at conferences! 
 At first, it can be quite nerve-racking but after you meet a few people you forget your worries and start having fun.
 
 I have participated as a speaker at:
@@ -55,6 +56,9 @@ I have participated as a speaker at:
 - [YouTube channel for more info](https://www.youtube.com/playlist?list=PLxktx98zP3aCYRP1-HCUgyHE3qowkQ01A)
 - And many online meetups due to the pandemic
 
+#### :books: Recent Blog Posts
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
