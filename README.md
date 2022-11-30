@@ -42,6 +42,20 @@ I have participated as a speaker at: Covalence in San Francisco, Dev Around the 
 - [github](https://github.com/EleftheriaBatsou)
 
 
+<p align='center'>
+  <a href="https://twitter.com/BatsouElef" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>&nbsp;
+  
+  <a href="https://www.linkedin.com/in/eleftheriabatsou" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
+  </a>&nbsp;
+  
+  <a href="https://blog.eleftheriabatsou.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Tech%20Blog-orange?style=for-the-badge" alt="Blog">
+  </a>
+</p>
+
 
 <!--
 **EleftheriaBatsou/EleftheriaBatsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
