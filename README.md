@@ -58,11 +58,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [Soft Skills for Junior Developers: What Companies are Looking for in the Hiring Process](https://blog.eleftheriabatsou.com/soft-skills-for-junior-developers-what-companies-are-looking-for-in-the-hiring-process)
  - [The Essential Skills for Success as an Engineer, based on 500 responses](https://blog.eleftheriabatsou.com/the-essential-skills-for-success-as-an-engineer)
  - [1 Year Anniversary at Hashnode as a Community Manager &amp; Answering Questions from the Community 💙](https://blog.eleftheriabatsou.com/1-year-anniversary-at-hashnode-as-a-community-manager-and-answering-questions-from-the-community)
  - [My Experience as a Speaker at ConFrontJS 🎤 [+ Poland Vlog]](https://blog.eleftheriabatsou.com/speakering-at-confrontjs-poland)
- - [Why We Need More Women In Tech](https://blog.eleftheriabatsou.com/why-we-need-more-women-in-tech)
- - [My Experience as a Speaker at NDC Oslo 🎤 &amp; Going back to offline events?! 😥 [Vlog]](https://blog.eleftheriabatsou.com/my-experience-as-a-speaker-at-ndc-oslo-and-going-back-to-offline-events-vlog)<!-- BLOGPOSTS:END -->
+ - [Why We Need More Women In Tech](https://blog.eleftheriabatsou.com/why-we-need-more-women-in-tech)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
