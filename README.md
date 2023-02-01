@@ -58,11 +58,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [7 Tools to Improve Your Social Media Presence as a Developer](https://blog.eleftheriabatsou.com/improve-your-social-media-presence)
  - [CSS Art Tutorial: Create a Cute Cartoon Creature](https://blog.eleftheriabatsou.com/css-art-tutorial-create-a-cute-cartoon-creature)
  - [Soft Skills for Junior Developers: What Companies are Looking for in the Hiring Process](https://blog.eleftheriabatsou.com/soft-skills-for-junior-developers-what-companies-are-looking-for-in-the-hiring-process)
  - [The Essential Skills for Success as an Engineer, based on 500 responses](https://blog.eleftheriabatsou.com/the-essential-skills-for-success-as-an-engineer)
- - [1 Year Anniversary at Hashnode as a Community Manager &amp; Answering Questions from the Community 💙](https://blog.eleftheriabatsou.com/1-year-anniversary-at-hashnode-as-a-community-manager-and-answering-questions-from-the-community)
- - [My Experience as a Speaker at ConFrontJS 🎤 [+ Poland Vlog]](https://blog.eleftheriabatsou.com/speakering-at-confrontjs-poland)<!-- BLOGPOSTS:END -->
+ - [1 Year Anniversary at Hashnode as a Community Manager &amp; Answering Questions from the Community 💙](https://blog.eleftheriabatsou.com/1-year-anniversary-at-hashnode-as-a-community-manager-and-answering-questions-from-the-community)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
