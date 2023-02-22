@@ -58,11 +58,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [Navigating Your First Steps in Software Development: Advice from Experts](https://blog.eleftheriabatsou.com/navigating-your-first-steps-in-software-development-advice-from-experts)
  - [CSS Art Tutorial: Create the Blow Kiss Emoji With Only 4 Classes &amp; Animation! 😘](https://blog.eleftheriabatsou.com/css-art-tutorial-create-the-blow-kiss-emoji)
  - [CSS Art Tutorial: Create the Flushed Emoji With Only 3 Classes! 😳](https://blog.eleftheriabatsou.com/css-art-tutorial-the-flushed-emoji-with-3-classes)
  - [7 Tools to Improve Your Social Media Presence as a Developer](https://blog.eleftheriabatsou.com/improve-your-social-media-presence)
- - [CSS Art Tutorial: Create a Cute Cartoon Creature](https://blog.eleftheriabatsou.com/css-art-tutorial-create-a-cute-cartoon-creature)
- - [Soft Skills for Junior Developers: What Companies are Looking for in the Hiring Process](https://blog.eleftheriabatsou.com/soft-skills-for-junior-developers-what-companies-are-looking-for-in-the-hiring-process)<!-- BLOGPOSTS:END -->
+ - [CSS Art Tutorial: Create a Cute Cartoon Creature](https://blog.eleftheriabatsou.com/css-art-tutorial-create-a-cute-cartoon-creature)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
