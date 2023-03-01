@@ -58,11 +58,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [CSS Tutorial: Create an infinite-scrolling background](https://blog.eleftheriabatsou.com/css-tutorial-create-an-infinite-scrolling-background)
  - [Navigating Your First Steps in Software Development: Advice from Experts](https://blog.eleftheriabatsou.com/navigating-your-first-steps-in-software-development-advice-from-experts)
  - [CSS Art Tutorial: Create the Blow Kiss Emoji With Only 4 Classes &amp; Animation! 😘](https://blog.eleftheriabatsou.com/css-art-tutorial-create-the-blow-kiss-emoji)
  - [CSS Art Tutorial: Create the Flushed Emoji With Only 3 Classes! 😳](https://blog.eleftheriabatsou.com/css-art-tutorial-the-flushed-emoji-with-3-classes)
- - [7 Tools to Improve Your Social Media Presence as a Developer](https://blog.eleftheriabatsou.com/improve-your-social-media-presence)
- - [CSS Art Tutorial: Create a Cute Cartoon Creature](https://blog.eleftheriabatsou.com/css-art-tutorial-create-a-cute-cartoon-creature)<!-- BLOGPOSTS:END -->
+ - [7 Tools to Improve Your Social Media Presence as a Developer](https://blog.eleftheriabatsou.com/improve-your-social-media-presence)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
