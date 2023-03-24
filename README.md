@@ -58,11 +58,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [Getting Started with CSS Animations: Creating Engaging Web Animations](https://blog.eleftheriabatsou.com/getting-started-with-css-animations)
  - [From TDD to AI: Techniques &amp; Tools for Devs, Save Time &amp; Speed up Your Development Process](https://blog.eleftheriabatsou.com/tools-for-devs-save-time-speed-up-your-development-process)
  - [Celebrating Women in Tech: Story Time &amp; How You Can Support Us👯‍♀️](https://blog.eleftheriabatsou.com/celebrating-women-in-tech-story-time-how-you-can-support-us)
  - [CSS Tutorial: Create an infinite-scrolling background](https://blog.eleftheriabatsou.com/css-tutorial-create-an-infinite-scrolling-background)
- - [Navigating Your First Steps in Software Development: Advice from Experts](https://blog.eleftheriabatsou.com/navigating-your-first-steps-in-software-development-advice-from-experts)
- - [CSS Art Tutorial: Create the Blow Kiss Emoji With Only 4 Classes &amp; Animation! 😘](https://blog.eleftheriabatsou.com/css-art-tutorial-create-the-blow-kiss-emoji)<!-- BLOGPOSTS:END -->
+ - [Navigating Your First Steps in Software Development: Advice from Experts](https://blog.eleftheriabatsou.com/navigating-your-first-steps-in-software-development-advice-from-experts)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
