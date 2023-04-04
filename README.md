@@ -58,11 +58,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [Scale Web Scraping Using a Real Browser with Built-in Proxies and Web Unblockers](https://blog.eleftheriabatsou.com/scale-web-scraping-using-a-real-browser)
  - [Getting Started with CSS Animations: Creating Engaging Web Animations](https://blog.eleftheriabatsou.com/getting-started-with-css-animations)
  - [From TDD to AI: Techniques &amp; Tools for Devs, Save Time &amp; Speed up Your Development Process](https://blog.eleftheriabatsou.com/tools-for-devs-save-time-speed-up-your-development-process)
  - [Celebrating Women in Tech: Story Time &amp; How You Can Support Us👯‍♀️](https://blog.eleftheriabatsou.com/celebrating-women-in-tech-story-time-how-you-can-support-us)
- - [CSS Tutorial: Create an infinite-scrolling background](https://blog.eleftheriabatsou.com/css-tutorial-create-an-infinite-scrolling-background)
- - [Navigating Your First Steps in Software Development: Advice from Experts](https://blog.eleftheriabatsou.com/navigating-your-first-steps-in-software-development-advice-from-experts)<!-- BLOGPOSTS:END -->
+ - [CSS Tutorial: Create an infinite-scrolling background](https://blog.eleftheriabatsou.com/css-tutorial-create-an-infinite-scrolling-background)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
