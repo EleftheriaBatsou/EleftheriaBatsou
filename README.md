@@ -58,11 +58,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [Navigating Legacy Codebases: Tips &amp; Learnings from Expert Developers](https://blog.eleftheriabatsou.com/navigating-legacy-codebases-tips-learnings-from-expert-developers)
  - [Understanding CSS Specificity: What It Is and How It Works](https://blog.eleftheriabatsou.com/understanding-css-specificity)
  - [Scale Web Scraping Using a Real Browser with Built-in Proxies and Web Unblockers](https://blog.eleftheriabatsou.com/scale-web-scraping-using-a-real-browser)
  - [Getting Started with CSS Animations: Creating Engaging Web Animations](https://blog.eleftheriabatsou.com/getting-started-with-css-animations)
- - [From TDD to AI: Techniques &amp; Tools for Devs, Save Time &amp; Speed up Your Development Process](https://blog.eleftheriabatsou.com/tools-for-devs-save-time-speed-up-your-development-process)
- - [Celebrating Women in Tech: Story Time &amp; How You Can Support Us👯‍♀️](https://blog.eleftheriabatsou.com/celebrating-women-in-tech-story-time-how-you-can-support-us)<!-- BLOGPOSTS:END -->
+ - [From TDD to AI: Techniques &amp; Tools for Devs, Save Time &amp; Speed up Your Development Process](https://blog.eleftheriabatsou.com/tools-for-devs-save-time-speed-up-your-development-process)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
