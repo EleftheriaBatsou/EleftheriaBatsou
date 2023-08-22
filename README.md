@@ -58,11 +58,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [Quick Guide for Supporting a Newcomer in Your Team](https://blog.eleftheriabatsou.com/quick-guide-for-supporting-a-newcomer-in-your-team)
  - [Ways To Keep Up Motivation In Your Career](https://blog.eleftheriabatsou.com/ways-to-keep-up-motivation-in-your-career)
  - [Navigating Legacy Codebases: Tips &amp; Learnings from Expert Developers](https://blog.eleftheriabatsou.com/navigating-legacy-codebases-tips-learnings-from-expert-developers)
  - [Understanding CSS Specificity: What It Is and How It Works](https://blog.eleftheriabatsou.com/understanding-css-specificity)
- - [Scale Web Scraping Using a Real Browser with Built-in Proxies and Web Unblockers](https://blog.eleftheriabatsou.com/scale-web-scraping-using-a-real-browser)
- - [Getting Started with CSS Animations: Creating Engaging Web Animations](https://blog.eleftheriabatsou.com/getting-started-with-css-animations)<!-- BLOGPOSTS:END -->
+ - [Scale Web Scraping Using a Real Browser with Built-in Proxies and Web Unblockers](https://blog.eleftheriabatsou.com/scale-web-scraping-using-a-real-browser)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
