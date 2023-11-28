@@ -58,11 +58,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [CSS Art Tutorial: Creating a simple Santa Claus &lpar;and animate the snowflakes&rpar; 🎅❄️](https://blog.eleftheriabatsou.com/css-art-creating-a-santa-claus)
  - [How I Became a Tech Conference Speaker as a Newbie &amp; How You Can Do It Too](https://blog.eleftheriabatsou.com/how-i-became-a-tech-conference-speaker-as-a-newbie-how-you-can-do-it-too)
  - [Quick Guide for Supporting a Newcomer in Your Team](https://blog.eleftheriabatsou.com/quick-guide-for-supporting-a-newcomer-in-your-team)
  - [Ways To Keep Up Motivation In Your Career](https://blog.eleftheriabatsou.com/ways-to-keep-up-motivation-in-your-career)
- - [Navigating Legacy Codebases: Tips &amp; Learnings from Expert Developers](https://blog.eleftheriabatsou.com/navigating-legacy-codebases-tips-learnings-from-expert-developers)
- - [Understanding CSS Specificity: What It Is and How It Works](https://blog.eleftheriabatsou.com/understanding-css-specificity)<!-- BLOGPOSTS:END -->
+ - [Navigating Legacy Codebases: Tips &amp; Learnings from Expert Developers](https://blog.eleftheriabatsou.com/navigating-legacy-codebases-tips-learnings-from-expert-developers)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
