@@ -58,11 +58,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [CSS Art Tutorial: Creating a Christmas Scene &lpar;and Animating the Mountains and the Tree&rpar; 🎄❄️](https://blog.eleftheriabatsou.com/creating-a-christmas-scene)
  - [Supercharged Productivity: Tips to Energize Your Tech Journey](https://blog.eleftheriabatsou.com/supercharged-productivity-tips-to-energize-your-tech-journey)
  - [CSS Art Tutorial: Creating a simple Santa Claus &lpar;and animate the snowflakes&rpar; 🎅❄️](https://blog.eleftheriabatsou.com/css-art-creating-a-santa-claus)
  - [How I Became a Tech Conference Speaker as a Newbie &amp; How You Can Do It Too](https://blog.eleftheriabatsou.com/how-i-became-a-tech-conference-speaker-as-a-newbie-how-you-can-do-it-too)
- - [Quick Guide for Supporting a Newcomer in Your Team](https://blog.eleftheriabatsou.com/quick-guide-for-supporting-a-newcomer-in-your-team)
- - [Ways To Keep Up Motivation In Your Career](https://blog.eleftheriabatsou.com/ways-to-keep-up-motivation-in-your-career)<!-- BLOGPOSTS:END -->
+ - [Quick Guide for Supporting a Newcomer in Your Team](https://blog.eleftheriabatsou.com/quick-guide-for-supporting-a-newcomer-in-your-team)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
