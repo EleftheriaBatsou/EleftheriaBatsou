@@ -59,10 +59,10 @@ I have participated as a speaker at:
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - [CSS Art Tutorial: Creating a Christmas Scene &lpar;and Animating the Mountains and the Tree&rpar; 🎄❄️](https://eleftheriabatsou.hashnode.dev/creating-a-christmas-scene)
- - [Supercharged Productivity: Tips to Energize Your Tech Journey](https://blog.eleftheriabatsou.com/supercharged-productivity-tips-to-energize-your-tech-journey)
- - [CSS Art Tutorial: Creating a simple Santa Claus &lpar;and animate the snowflakes&rpar; 🎅❄️](https://blog.eleftheriabatsou.com/css-art-creating-a-santa-claus)
- - [How I Became a Tech Conference Speaker as a Newbie &amp; How You Can Do It Too](https://blog.eleftheriabatsou.com/how-i-became-a-tech-conference-speaker-as-a-newbie-how-you-can-do-it-too)
- - [Quick Guide for Supporting a Newcomer in Your Team](https://blog.eleftheriabatsou.com/quick-guide-for-supporting-a-newcomer-in-your-team)<!-- BLOGPOSTS:END -->
+ - [Supercharged Productivity: Tips to Energize Your Tech Journey](https://eleftheriabatsou.hashnode.dev/supercharged-productivity-tips-to-energize-your-tech-journey)
+ - [CSS Art Tutorial: Creating a simple Santa Claus &lpar;and animate the snowflakes&rpar; 🎅❄️](https://eleftheriabatsou.jashnode.dev/css-art-creating-a-santa-claus)
+ - [How I Became a Tech Conference Speaker as a Newbie &amp; How You Can Do It Too](https://eleftheriabatsou.hashnode.dev/how-i-became-a-tech-conference-speaker-as-a-newbie-how-you-can-do-it-too)
+ - [Quick Guide for Supporting a Newcomer in Your Team](https://eleftheriabatsou.hashnode.dev/quick-guide-for-supporting-a-newcomer-in-your-team)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
@@ -84,7 +84,7 @@ I have participated as a speaker at:
 **EleftheriaBatsou/EleftheriaBatsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🙆Let's stay in touch: 
-[twitter](https://twitter.com/BatsouEle) | [instagram](https://www.instagram.com/elef_in_tech)| [blog](https://eleftheriabatsou.medium.com/) | [codepen](http://codepen.io/EleftheriaBatsou) | [linkedIn](https://www.linkedin.com/in/eleftheriabatsou) | [github](https://github.com/EleftheriaBatsou)
+[X](https://twitter.com/BatsouElef) | [instagram](https://www.instagram.com/elef_in_tech)| [blog](https://eleftheriabatsou.medium.com/) | [codepen](http://codepen.io/EleftheriaBatsou) | [linkedIn](https://www.linkedin.com/in/eleftheriabatsou) | [github](https://github.com/EleftheriaBatsou)
 
 
 Here are some ideas to get you started:
