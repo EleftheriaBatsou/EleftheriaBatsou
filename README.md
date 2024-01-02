@@ -74,7 +74,7 @@ I have participated as a speaker at:
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
   </a>&nbsp;
   
-  <a href="https://blog.eleftheriabatsou.com" target="_blank">
+  <a href="[https://blog.eleftheriabatsou.com](https://eleftheriabatsou.medium.com/)" target="_blank">
     <img src="https://img.shields.io/badge/-Tech%20Blog-orange?style=for-the-badge" alt="Blog">
   </a>
 </p>
@@ -84,7 +84,7 @@ I have participated as a speaker at:
 **EleftheriaBatsou/EleftheriaBatsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🙆Let's stay in touch: 
-[twitter](https://twitter.com/BatsouEle) | [instagram](https://www.instagram.com/elef_in_tech)| [blog](https://eleftheriabatsou.hashnode.dev) | [codepen](http://codepen.io/EleftheriaBatsou) | [linkedIn](https://www.linkedin.com/in/eleftheriabatsou) | [github](https://github.com/EleftheriaBatsou)
+[twitter](https://twitter.com/BatsouEle) | [instagram](https://www.instagram.com/elef_in_tech)| [blog]([https://eleftheriabatsou.hashnode.dev](https://eleftheriabatsou.medium.com/)) | [codepen](http://codepen.io/EleftheriaBatsou) | [linkedIn](https://www.linkedin.com/in/eleftheriabatsou) | [github](https://github.com/EleftheriaBatsou)
 
 
 Here are some ideas to get you started:
