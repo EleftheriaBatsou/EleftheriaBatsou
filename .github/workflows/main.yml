@@ -14,7 +14,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "BLOGPOSTS"
-          feed_list: "https://blog.eleftheriabatsou.com/rss.xml"
+          feed_list: "https://eleftheriabatsou.hashnode.dev/rss.xml"
           template: "$newline - [$title]($url)"
           commit_message: "recent posts section updated"
           gh_token: ${{ secrets.GITHUB_TOKEN }}
