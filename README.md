@@ -58,11 +58,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [2024 Guide: Mastering the 4 Key Steps to Land a Tech Job](https://eleftheriabatsou.hashnode.dev/2024-guide-land-a-tech-job)
  - [Advanced CSS Animations and Examples](https://eleftheriabatsou.hashnode.dev/advanced-css-animations-and-examples)
  - [CSS Art Tutorial: Creating a Christmas Scene &lpar;and Animating the Mountains and the Tree&rpar; 🎄❄️](https://eleftheriabatsou.hashnode.dev/creating-a-christmas-scene)
  - [Supercharged Productivity: Tips to Energize Your Tech Journey](https://eleftheriabatsou.hashnode.dev/supercharged-productivity-tips-to-energize-your-tech-journey)
- - [CSS Art Tutorial: Creating a simple Santa Claus &lpar;and animate the snowflakes&rpar; 🎅❄️](https://eleftheriabatsou.hashnode.dev/css-art-creating-a-santa-claus)
- - [How I Became a Tech Conference Speaker as a Newbie &amp; How You Can Do It Too](https://eleftheriabatsou.hashnode.dev/how-i-became-a-tech-conference-speaker-as-a-newbie-how-you-can-do-it-too)<!-- BLOGPOSTS:END -->
+ - [CSS Art Tutorial: Creating a simple Santa Claus &lpar;and animate the snowflakes&rpar; 🎅❄️](https://eleftheriabatsou.hashnode.dev/css-art-creating-a-santa-claus)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
