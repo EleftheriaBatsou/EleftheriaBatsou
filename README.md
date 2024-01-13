@@ -58,11 +58,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [Open Source Potentials: Insights into DevRel, Public Speaking and Collaborative Tech Future](https://eleftheriabatsou.hashnode.dev/open-source-devrel-public-speaking-tech-future)
  - [2024 Guide: Mastering the 4 Key Steps to Land a Tech Job](https://eleftheriabatsou.hashnode.dev/2024-guide-land-a-tech-job)
  - [Advanced CSS Animations and Examples](https://eleftheriabatsou.hashnode.dev/advanced-css-animations-and-examples)
  - [CSS Art Tutorial: Creating a Christmas Scene &lpar;and Animating the Mountains and the Tree&rpar; 🎄❄️](https://eleftheriabatsou.hashnode.dev/creating-a-christmas-scene)
- - [Supercharged Productivity: Tips to Energize Your Tech Journey](https://eleftheriabatsou.hashnode.dev/supercharged-productivity-tips-to-energize-your-tech-journey)
- - [CSS Art Tutorial: Creating a simple Santa Claus &lpar;and animate the snowflakes&rpar; 🎅❄️](https://eleftheriabatsou.hashnode.dev/css-art-creating-a-santa-claus)<!-- BLOGPOSTS:END -->
+ - [Supercharged Productivity: Tips to Energize Your Tech Journey](https://eleftheriabatsou.hashnode.dev/supercharged-productivity-tips-to-energize-your-tech-journey)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
