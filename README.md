@@ -28,7 +28,7 @@ I'm working in the field of tech since 2017. I like researching and getting to k
 At first, it can be quite nerve-racking but after you meet a few people you forget your worries and start having fun.
 
 I have participated as a speaker at:
-- [VoxxedDays Ioannina 24] in Greece
+- [VoxxedDays Ioannina 24](https://ioannina.voxxeddays.com/) in Greece
 - [CityJs 23](https://cityjsconf.org/) in Serbia
 - [WeAreDevelopers World Congress 23](https://www.wearedevelopers.com/world-congress) in Germany
 - [JNation 23](https://jnation.pt/) in Portugal
