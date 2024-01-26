@@ -28,6 +28,11 @@ I'm working in the field of tech since 2017. I like researching and getting to k
 At first, it can be quite nerve-racking but after you meet a few people you forget your worries and start having fun.
 
 I have participated as a speaker at:
+- [VoxxedDays Ioannina 24] in Greece
+- [CityJs 23](https://cityjsconf.org/) in Serbia
+- [WeAreDevelopers World Congress 23](https://www.wearedevelopers.com/world-congress) in Germany
+- [JNation 23](https://jnation.pt/) in Portugal
+- [Neos Conference 23](https://www.neoscon.io/) in Germany
 - [NDC London 23](https://ndclondon.com/) in UK
 - [Build Stuff 22](https://www.buildstuff.events/) in Lithuania 
 - [Voxxed Days 22](https://romania.voxxeddays.com/cluj-napoca/voxxed-days-cluj-napoca-2022/) in Romania
