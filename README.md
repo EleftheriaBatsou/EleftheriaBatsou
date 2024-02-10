@@ -63,11 +63,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [How to Use CSS3 2D and 3D Transforms](https://eleftheriabatsou.hashnode.dev/how-to-use-css3-2d-and-3d-transforms)
  - [A Quick Look at CSS3 Multiple Backgrounds &lpar;+ Examples&rpar;](https://eleftheriabatsou.hashnode.dev/css3-multiple-backgrounds-examples)
  - [Simple Guide to CSS3 Box Shadows and Rounded Corners &lpar;+ Examples&rpar;](https://eleftheriabatsou.hashnode.dev/simple-guide-to-css3-box-shadows-and-rounded-corners-examples)
  - [Understanding CSS3 Gradients: Linear, Radial, and Repeating](https://eleftheriabatsou.hashnode.dev/understanding-css3-gradients)
- - [Open Source Potentials: Insights into DevRel, Public Speaking and Collaborative Tech Future](https://eleftheriabatsou.hashnode.dev/open-source-devrel-public-speaking-tech-future)
- - [2024 Guide: Mastering the 4 Key Steps to Land a Tech Job](https://eleftheriabatsou.hashnode.dev/2024-guide-land-a-tech-job)<!-- BLOGPOSTS:END -->
+ - [Open Source Potentials: Insights into DevRel, Public Speaking and Collaborative Tech Future](https://eleftheriabatsou.hashnode.dev/open-source-devrel-public-speaking-tech-future)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
