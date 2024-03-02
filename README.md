@@ -63,11 +63,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [Integrating Rust with SQLite: A Practical Guide For Beginners Devs 🦀](https://eleftheriabatsou.hashnode.dev/integrating-rust-with-sqlite-guide-for-beginners)
  - [5 Rust Project Ideas For Beginner Devs 🦀](https://eleftheriabatsou.hashnode.dev/5-rust-project-ideas-for-beginner-devs)
  - [5 Rust Project Ideas For Absolutely Beginner Devs 🦀](https://eleftheriabatsou.hashnode.dev/5-rust-project-ideas-for-absolutely-beginners-devs)
  - [How to Use CSS3 2D and 3D Transforms](https://eleftheriabatsou.hashnode.dev/how-to-use-css3-2d-and-3d-transforms)
- - [A Quick Look at CSS3 Multiple Backgrounds &lpar;+ Examples&rpar;](https://eleftheriabatsou.hashnode.dev/css3-multiple-backgrounds-examples)
- - [Simple Guide to CSS3 Box Shadows and Rounded Corners &lpar;+ Examples&rpar;](https://eleftheriabatsou.hashnode.dev/simple-guide-to-css3-box-shadows-and-rounded-corners-examples)<!-- BLOGPOSTS:END -->
+ - [A Quick Look at CSS3 Multiple Backgrounds &lpar;+ Examples&rpar;](https://eleftheriabatsou.hashnode.dev/css3-multiple-backgrounds-examples)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
