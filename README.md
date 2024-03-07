@@ -3,6 +3,7 @@
 #### About
 I'm working in the field of tech since 2017. I like researching and getting to know how things started or how I could improve them! I like learning and sharing my knowledge about development/research/design and visual arts. I also try to promote my passions through [videos](https://www.youtube.com/c/eleftheriabatsou) and [articles](https://blog.eleftheriabatsou.com/). My hobbies include travelling and working out. 
 
+<!--
 🔭 WHY WOULD YOU LIKE TO WORK WITH ME
 - I'm a team player (yeah, I know it's cliché)
 - I pay attention to the details and I love doing research
@@ -15,14 +16,13 @@ I'm working in the field of tech since 2017. I like researching and getting to k
 - I've travelled in 3 continents
 - I believe volunteering is a lifestyle
 - I 'm classical girl who like coffee, chocolate and flowers
+-->
 
+#### 🌱 That's me
+- Currently working as a community manager at [CrabNebula](https://crabnebula.dev).
+- My studies include a master's in Graphical Art and Multimedia while I have a major in Informatics and Telecommunications of Engineering.
+- My "side projects" are creating YouTube videos, writing tech articles, mentoring code newbies etc.
 
-🌱 THAT'S ME
-- Currently working as a lead community manager at Hashnode, a free blogging platform.
-- My studies include a master's in Graphical Art and Multimedia while I have major in Informatics and Telecommunications of Engineering.
-- My "side projects" are creating youtube videos, writing tech articles, mentoring code newbies etc.
-
----
 
 #### 🎤 Sometimes I speak at conferences! 
 At first, it can be quite nerve-racking but after you meet a few people you forget your worries and start having fun.
