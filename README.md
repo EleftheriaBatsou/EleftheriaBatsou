@@ -63,11 +63,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [Building a PasteBin in Rust: A Step-by-Step Tutorial](https://eleftheriabatsou.hashnode.dev/pastebin-in-rust-tutorial)
  - [Building a REST API for Math Operations  &lpar;+, *, /&rpar; with Rust, Actix, and Rhai🦀](https://eleftheriabatsou.hashnode.dev/building-a-rest-api-for-math-operations-with-rust-actix-and-rhai)
  - [SQLite + Rust: Building a CLI Password Vault 🦀](https://eleftheriabatsou.hashnode.dev/sqlite-rust-building-a-cli-password-vault)
  - [Building a Password Vault in Rust: A Beginner&#39;s Guide](https://eleftheriabatsou.hashnode.dev/building-a-password-vault-in-rust-a-beginners-guide)
- - [Integrating Rust with SQLite: A Practical Guide For Beginners Devs 🦀](https://eleftheriabatsou.hashnode.dev/integrating-rust-with-sqlite-guide-for-beginners)
- - [5 Rust Project Ideas For Beginner Devs 🦀](https://eleftheriabatsou.hashnode.dev/5-rust-project-ideas-for-beginner-devs)<!-- BLOGPOSTS:END -->
+ - [Integrating Rust with SQLite: A Practical Guide For Beginners Devs 🦀](https://eleftheriabatsou.hashnode.dev/integrating-rust-with-sqlite-guide-for-beginners)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
