@@ -63,11 +63,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [Tutorial: Building a Port Scanner in Rust 🦀](https://eleftheriabatsou.hashnode.dev/tutorial-building-a-port-scanner-in-rust)
  - [CLI Video Downloader in Rust: A Step-by-Step Tutorial](https://eleftheriabatsou.hashnode.dev/cli-video-downloader-in-rust)
  - [5 Rust Project Ideas For Beginner to Mid Devs 🦀](https://eleftheriabatsou.hashnode.dev/5-rust-project-ideas-for-beginner-to-mid-devs)
  - [Building a PasteBin in Rust: A Step-by-Step Tutorial](https://eleftheriabatsou.hashnode.dev/pastebin-in-rust-tutorial)
- - [Building a REST API for Math Operations  &lpar;+, *, /&rpar; with Rust, Actix, and Rhai🦀](https://eleftheriabatsou.hashnode.dev/building-a-rest-api-for-math-operations-with-rust-actix-and-rhai)
- - [SQLite + Rust: Building a CLI Password Vault 🦀](https://eleftheriabatsou.hashnode.dev/sqlite-rust-building-a-cli-password-vault)<!-- BLOGPOSTS:END -->
+ - [Building a REST API for Math Operations  &lpar;+, *, /&rpar; with Rust, Actix, and Rhai🦀](https://eleftheriabatsou.hashnode.dev/building-a-rest-api-for-math-operations-with-rust-actix-and-rhai)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
