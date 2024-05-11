@@ -63,11 +63,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [Tutorial: Chat Application &lpar;Client-Server&rpar; in Rust](https://eleftheriabatsou.hashnode.dev/tutorial-chat-application-client-server-in-rust)
  - [Tutorial: Snake game in Rust &lpar;Part 2/2&rpar;🐍🦀](https://eleftheriabatsou.hashnode.dev/tutorial-snake-game-in-rust-part-2)
  - [Tutorial: Snake game in Rust &lpar;Part 1/2&rpar;🐍🦀](https://eleftheriabatsou.hashnode.dev/tutorial-snake-game-in-rust-part-12)
  - [Tutorial: Building a Port Scanner in Rust 🦀](https://eleftheriabatsou.hashnode.dev/tutorial-building-a-port-scanner-in-rust)
- - [CLI Video Downloader in Rust: A Step-by-Step Tutorial](https://eleftheriabatsou.hashnode.dev/cli-video-downloader-in-rust)
- - [5 Rust Project Ideas For Beginner to Mid Devs 🦀](https://eleftheriabatsou.hashnode.dev/5-rust-project-ideas-for-beginner-to-mid-devs)<!-- BLOGPOSTS:END -->
+ - [CLI Video Downloader in Rust: A Step-by-Step Tutorial](https://eleftheriabatsou.hashnode.dev/cli-video-downloader-in-rust)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
