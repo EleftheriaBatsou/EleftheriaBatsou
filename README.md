@@ -65,11 +65,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [Tutorial: Build a Digital Clock in Rust 🦀⏰](https://eleftheriabatsou.hashnode.dev/tutorial-build-a-digital-clock-in-rust)
  - [Tutorial: Real-time Chat App in Rust with Rocket 🦀⌨️](https://eleftheriabatsou.hashnode.dev/tutorial-real-time-chat-app-in-rust-with-rocket)
  - [5 &lpar;More&rpar; Rust Project Ideas ~ For Beginners to Mid Devs 🦀](https://eleftheriabatsou.hashnode.dev/5-more-rust-project-ideas-for-beginners-to-mid-devs)
  - [Tutorial: Pong game in Rust 🦀](https://eleftheriabatsou.hashnode.dev/tutorial-pong-game-in-rust)
- - [Tutorial: Chat Application &lpar;Client-Server&rpar; in Rust](https://eleftheriabatsou.hashnode.dev/tutorial-chat-application-client-server-in-rust)
- - [Tutorial: Snake game in Rust &lpar;Part 2/2&rpar;🐍🦀](https://eleftheriabatsou.hashnode.dev/tutorial-snake-game-in-rust-part-2)<!-- BLOGPOSTS:END -->
+ - [Tutorial: Chat Application &lpar;Client-Server&rpar; in Rust](https://eleftheriabatsou.hashnode.dev/tutorial-chat-application-client-server-in-rust)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
