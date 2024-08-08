@@ -65,11 +65,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [Excelling in Tech Content Creation: Strategies for Success in 2024](https://eleftheriabatsou.hashnode.dev/excelling-in-tech-content-creation-strategies-for-success-in-2024)
  - [Growing My X/Twitter Following to 50K: Tips and Strategies for Success](https://eleftheriabatsou.hashnode.dev/growing-my-xtwitter-following-to-50k-tips)
  - [7 Social Media Strategies for Building a Strong Personal Brand as a Developer](https://eleftheriabatsou.hashnode.dev/social-media-strategies-for-building-a-personal-brand-as-a-developer)
  - [The Most Underrated Benefits of Working Remotely💼🌎](https://eleftheriabatsou.hashnode.dev/underrated-benefits-of-working-remotely)
- - [5 &lpar;More&rpar; Rust Project Ideas ~ For Beginners to Mid Devs 🦀👨‍💻](https://eleftheriabatsou.hashnode.dev/5-more-rust-project-ideas-for-beginners-to-mid-devs-1)
- - [Tutorial: Random Number  - Guessing Game in Rust 🦀🔢](https://eleftheriabatsou.hashnode.dev/tutorial-random-number-guessing-game-in-rust)<!-- BLOGPOSTS:END -->
+ - [5 &lpar;More&rpar; Rust Project Ideas ~ For Beginners to Mid Devs 🦀👨‍💻](https://eleftheriabatsou.hashnode.dev/5-more-rust-project-ideas-for-beginners-to-mid-devs-1)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
