@@ -65,11 +65,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [CSS3 Pseudo-Classes and Pseudo-Elements: An In-Depth Look](https://eleftheriabatsou.hashnode.dev/css3-pseudo-classes-and-pseudo-elements-an-in-depth-look)
  - [How to Promote a New Newsletter on LinkedIn or X even Without Many Followers](https://eleftheriabatsou.hashnode.dev/how-to-promote-a-new-newsletter-on-linkedin-or-x-even-without-many-followers)
  - [A Quick Guide to Launch on Product Hunt](https://eleftheriabatsou.hashnode.dev/a-quick-guide-to-launch-on-product-hunt)
  - [7 Tips for Expanding a Tech Community as a Community Manager](https://eleftheriabatsou.hashnode.dev/7-tips-for-expanding-a-tech-community-as-a-community-manager)
- - [Excelling in Tech Content Creation: Strategies for Success in 2024](https://eleftheriabatsou.hashnode.dev/excelling-in-tech-content-creation-strategies-for-success-in-2024)
- - [Growing My X/Twitter Following to 50K: Tips and Strategies for Success](https://eleftheriabatsou.hashnode.dev/growing-my-xtwitter-following-to-50k-tips)<!-- BLOGPOSTS:END -->
+ - [Excelling in Tech Content Creation: Strategies for Success in 2024](https://eleftheriabatsou.hashnode.dev/excelling-in-tech-content-creation-strategies-for-success-in-2024)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
