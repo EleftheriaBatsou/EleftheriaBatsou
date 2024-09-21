@@ -65,11 +65,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [Building a Personal Brand as a Developer: A Step-by-Step Plan](https://eleftheriabatsou.hashnode.dev/building-a-personal-brand-as-a-developer-a-step-by-step-plan)
  - [Types of Gen AI Risk &amp; How to Mitigate Them](https://eleftheriabatsou.hashnode.dev/types-of-gen-ai-risk-how-to-mitigate-them)
  - [Mastering CSS3 Selectors: A Complete Guide with Examples](https://eleftheriabatsou.hashnode.dev/css3-selectors-with-examples)
  - [CSS3 Pseudo-Classes and Pseudo-Elements: An In-Depth Look](https://eleftheriabatsou.hashnode.dev/css3-pseudo-classes-and-pseudo-elements-an-in-depth-look)
- - [How to Promote a New Newsletter on LinkedIn or X even Without Many Followers](https://eleftheriabatsou.hashnode.dev/how-to-promote-a-new-newsletter-on-linkedin-or-x-even-without-many-followers)
- - [A Quick Guide to Launch on Product Hunt](https://eleftheriabatsou.hashnode.dev/a-quick-guide-to-launch-on-product-hunt)<!-- BLOGPOSTS:END -->
+ - [How to Promote a New Newsletter on LinkedIn or X even Without Many Followers](https://eleftheriabatsou.hashnode.dev/how-to-promote-a-new-newsletter-on-linkedin-or-x-even-without-many-followers)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
