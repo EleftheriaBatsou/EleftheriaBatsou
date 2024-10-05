@@ -65,11 +65,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [Learn CSS Grid: Simple Guide with Plenty of Examples](https://eleftheriabatsou.hashnode.dev/learn-css-grid-simple-guide-with-plenty-of-examples)
  - [Understanding the JavaScript Spread Operator &lpar;With Examples&rpar;](https://eleftheriabatsou.hashnode.dev/understanding-the-javascript-spread-operator-with-examples)
  - [Building a Personal Brand as a Developer: A Step-by-Step Plan](https://eleftheriabatsou.hashnode.dev/building-a-personal-brand-as-a-developer-a-step-by-step-plan)
  - [Types of Gen AI Risk &amp; How to Mitigate Them](https://eleftheriabatsou.hashnode.dev/types-of-gen-ai-risk-how-to-mitigate-them)
- - [Mastering CSS3 Selectors: A Complete Guide with Examples](https://eleftheriabatsou.hashnode.dev/css3-selectors-with-examples)
- - [CSS3 Pseudo-Classes and Pseudo-Elements: An In-Depth Look](https://eleftheriabatsou.hashnode.dev/css3-pseudo-classes-and-pseudo-elements-an-in-depth-look)<!-- BLOGPOSTS:END -->
+ - [Mastering CSS3 Selectors: A Complete Guide with Examples](https://eleftheriabatsou.hashnode.dev/css3-selectors-with-examples)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
