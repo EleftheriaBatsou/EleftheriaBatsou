@@ -65,11 +65,11 @@ I have participated as a speaker at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [Learn CSS Flexbox: A Simple Guide for Beginners to Design Layouts](https://eleftheriabatsou.hashnode.dev/learn-css-flexbox-a-simple-guide-for-beginners-to-design-layouts)
  - [Learn CSS Grid: Simple Guide with Plenty of Examples](https://eleftheriabatsou.hashnode.dev/learn-css-grid-simple-guide-with-plenty-of-examples)
  - [Understanding the JavaScript Spread Operator &lpar;With Examples&rpar;](https://eleftheriabatsou.hashnode.dev/understanding-the-javascript-spread-operator-with-examples)
  - [Building a Personal Brand as a Developer: A Step-by-Step Plan](https://eleftheriabatsou.hashnode.dev/building-a-personal-brand-as-a-developer-a-step-by-step-plan)
- - [Types of Gen AI Risk &amp; How to Mitigate Them](https://eleftheriabatsou.hashnode.dev/types-of-gen-ai-risk-how-to-mitigate-them)
- - [Mastering CSS3 Selectors: A Complete Guide with Examples](https://eleftheriabatsou.hashnode.dev/css3-selectors-with-examples)<!-- BLOGPOSTS:END -->
+ - [Types of Gen AI Risk &amp; How to Mitigate Them](https://eleftheriabatsou.hashnode.dev/types-of-gen-ai-risk-how-to-mitigate-them)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
