@@ -1,7 +1,7 @@
 #### Hi there, I'm Eleftheria, a Community manager with a coding background, keen on UX research and public speaking 👋
 
 #### About
-I'm working in the field of tech since 2017. I like researching and getting to know how things started or how I could improve them! I like learning and sharing my knowledge about development/research/design and visual arts. I also try to promote my passions through [videos](https://www.youtube.com/c/eleftheriabatsou) and [articles](https://blog.eleftheriabatsou.com/). My hobbies include travelling and working out. 
+I'm working in the field of tech since 2017. I like researching and getting to know how things started or how I could improve them! I like learning and sharing my knowledge about development/research/design and visual arts. I also try to promote my passions through [videos](https://www.youtube.com/c/eleftheriabatsou) and [articles](https://eleftheriabatsou.hashnode.dev/). My hobbies include travelling and working out. 
 
 <!--
 🔭 WHY WOULD YOU LIKE TO WORK WITH ME
