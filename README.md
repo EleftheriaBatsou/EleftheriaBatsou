@@ -19,7 +19,7 @@ I'm working in the field of tech since 2017. I like researching and getting to k
 -->
 
 #### 🌱 That's me
-- Currently working as a community manager at [CrabNebula](https://crabnebula.dev).
+- Currently working as a community manager. Previously worked at [CrabNebula](https://crabnebula.dev) and [Hashnode](https://hashnode.com).
 - My studies include a master's in Graphical Art and Multimedia while I have a major in Informatics and Telecommunications of Engineering.
 - My "side projects" are creating YouTube videos, writing tech articles, mentoring code newbies etc.
 
@@ -28,6 +28,8 @@ I'm working in the field of tech since 2017. I like researching and getting to k
 At first, it can be quite nerve-racking but after you meet a few people you forget your worries and start having fun.
 
 I have participated as a speaker at:
+- [Shift Conference 24](https://shift.infobip.com/) in Croatia
+- [WebSummer 24](https://websummercamp.com/2025) in Croatia
 - [JNation 24](https://jnation.pt/) in Portugal
 - [InfosharePL 24](https://infoshare.pl/) in Poland
 - [VoxxedDays Ioannina 24](https://ioannina.voxxeddays.com/) in Greece
@@ -62,6 +64,10 @@ I have participated as a speaker at:
 - [UUDF](https://www.duugfest.nl) in the Netherlands
 - [YouTube channel for more info](https://www.youtube.com/playlist?list=PLxktx98zP3aCYRP1-HCUgyHE3qowkQ01A)
 - And many online meetups due to the pandemic
+
+I was on the program committee at:
+- [VoxxedDays Thessaloniki 23 and 24](https://voxxeddays.com/thessaloniki/)
+- [JSnation 22](https://jsnation.com/)
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
