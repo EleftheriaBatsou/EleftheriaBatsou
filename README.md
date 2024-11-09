@@ -71,11 +71,11 @@ I was on the program committee at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [Flexbox vs Grid: A Guide to Choosing the Best Layout with Examples](https://eleftheriabatsou.hashnode.dev/flexbox-vs-grid-a-guide-to-choosing-the-best-layout-with-examples)
  - [CSS Positioning: Your Ultimate Guide to Element Placement](https://eleftheriabatsou.hashnode.dev/css-positioning-your-ultimate-guide-to-element-placement)
  - [How to Master the CSS Box Model for Perfect Website Layouts &lpar;+ Codepen examples&rpar;](https://eleftheriabatsou.hashnode.dev/how-to-master-the-css-box-model-for-perfect-website-layouts-codepen-examples)
  - [Mastering CSS Flexbox: Advanced Techniques, Real-World Applications, and Best Practices](https://eleftheriabatsou.hashnode.dev/mastering-css-flexbox-advanced-techniques-real-world-applications-and-best-practices)
- - [Learn CSS Flexbox: A Simple Guide for Beginners to Design Layouts](https://eleftheriabatsou.hashnode.dev/learn-css-flexbox-a-simple-guide-for-beginners-to-design-layouts)
- - [Learn CSS Grid: Simple Guide with Plenty of Examples](https://eleftheriabatsou.hashnode.dev/learn-css-grid-simple-guide-with-plenty-of-examples)<!-- BLOGPOSTS:END -->
+ - [Learn CSS Flexbox: A Simple Guide for Beginners to Design Layouts](https://eleftheriabatsou.hashnode.dev/learn-css-flexbox-a-simple-guide-for-beginners-to-design-layouts)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
