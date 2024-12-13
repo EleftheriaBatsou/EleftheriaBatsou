@@ -71,11 +71,11 @@ I was on the program committee at:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
+ - [Bootstrap vs. Pure CSS Grid: A Comparison Guide](https://eleftheriabatsou.hashnode.dev/bootstrap-vs-pure-css-grid-a-comparison-guide)
  - [Mastering CSS Preprocessors: A Guide to Sass, Less, and Stylus](https://eleftheriabatsou.hashnode.dev/mastering-css-preprocessors-a-guide-to-sass-less-and-stylus)
  - [Understanding CSS Inheritance: A Guide to Consistent Styling](https://eleftheriabatsou.hashnode.dev/understanding-css-inheritance-a-guide-to-consistent-styling)
  - [CSS Selectors: Unlocking Advanced Selectors for Modern Web Design](https://eleftheriabatsou.hashnode.dev/css-selectors-unlocking-advanced-selectors-for-modern-web-design)
- - [Understanding CSS Specificity: Guide to Style Rule Importance](https://eleftheriabatsou.hashnode.dev/understanding-css-specificity-guide-to-style-rule-importance)
- - [Flexbox vs Grid: A Guide to Choosing the Best Layout with Examples](https://eleftheriabatsou.hashnode.dev/flexbox-vs-grid-a-guide-to-choosing-the-best-layout-with-examples)<!-- BLOGPOSTS:END -->
+ - [Understanding CSS Specificity: Guide to Style Rule Importance](https://eleftheriabatsou.hashnode.dev/understanding-css-specificity-guide-to-style-rule-importance)<!-- BLOGPOSTS:END -->
 ---
 
 <p align='center'>
