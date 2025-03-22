@@ -69,8 +69,8 @@ I was on the program committee at:
 - [VoxxedDays Thessaloniki 23 and 24](https://voxxeddays.com/thessaloniki/)
 - [JSnation 22](https://jsnation.com/)
 
-#### :books: Recent Blog Posts
-<!-- BLOGPOSTS:START -->
+#### Recent Blog Posts
+<!-- BLOGPOSTS:START  :books: -->
  - [Looking Back at 2024 and Setting Goals for 2025](https://eleftheriabatsou.hashnode.dev/looking-back-at-2024-and-setting-goals-for-2025)
  - [A Comprehensive Guide to Google Maps Scraping](https://eleftheriabatsou.hashnode.dev/a-comprehensive-guide-to-google-maps-scraping)
  - [Bootstrap vs. Pure CSS Grid: A Comparison Guide](https://eleftheriabatsou.hashnode.dev/bootstrap-vs-pure-css-grid-a-comparison-guide)
