@@ -97,7 +97,7 @@ I was on the program committee at:
 **EleftheriaBatsou/EleftheriaBatsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🙆Let's stay in touch: 
-[X](https://twitter.com/BatsouElef) | [instagram](https://www.instagram.com/elef_in_tech)| [blog](https://eleftheriabatsou.medium.com/) | [codepen](http://codepen.io/EleftheriaBatsou) | [linkedIn](https://www.linkedin.com/in/eleftheriabatsou) | [github](https://github.com/EleftheriaBatsou)
+[X](https://twitter.com/BatsouElef) | [instagram](https://www.instagram.com/eleftheriabatsou)| [blog](https://eleftheriabatsou.medium.com/) | [codepen](http://codepen.io/EleftheriaBatsou) | [linkedIn](https://www.linkedin.com/in/eleftheriabatsou) | [github](https://github.com/EleftheriaBatsou)
 
 
 Here are some ideas to get you started:
