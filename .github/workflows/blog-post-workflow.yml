@@ -26,7 +26,7 @@ jobs:
         npm install rss-parser  # Installs the rss-parser package to parse the RSS feed
 
     - name: Run script to update README
-      run: node .github/scripts/update-readme.js  # Executes a Node.js script to update README.md
+      run: node updateReadme.js  # Executes a Node.js script to update README.md
 
     - name: Commit changes
       run: |
