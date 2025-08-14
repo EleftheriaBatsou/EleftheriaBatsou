@@ -69,6 +69,8 @@ I was on the program committee at:
 - [VoxxedDays Thessaloniki 23, 24 and 25](https://voxxeddays.com/thessaloniki/)
 - [Frontend Nation 25](https://frontendnation.com/)
 - [JSnation 22](https://jsnation.com/)
+
+I co-organize the [SKG JS Thessaloniki Meetup](https://www.meetup.com/skg-js)
   
 
 #### Recent Blog Posts
