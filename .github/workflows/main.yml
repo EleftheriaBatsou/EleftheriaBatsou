@@ -1,0 +1,37 @@
+name: Update README with Latest Blog Posts
+
+# Controls when the action will run. 
+on:
+  schedule:
+    - cron:  '30 5,17 * * *'  # This example triggers the workflow every day at 5:30 and 17:30 UTC
+  push:
+    branches:
+      - main  # Runs on pushes to the main branch; adjust if your default branch has a different name
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest  # The type of runner that the job will run on
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3  # Checks out your repository under $GITHUB_WORKSPACE, so your job can access it
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'  # Sets up a specific version of Node.js
+
+    - name: Install dependencies
+      run: |
+        npm install rss-parser  # Installs the rss-parser package to parse the RSS feed
+
+    - name: Run script to update README
+      run: node .github/scripts/update-readme.js  # Executes a Node.js script to update README.md
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Update README with latest blog posts" -a || echo "No changes to commit"
+        git push
