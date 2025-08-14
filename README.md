@@ -66,10 +66,16 @@ I have participated as a speaker at:
 - And many online meetups due to the pandemic
 
 I was on the program committee at:
-- [VoxxedDays Thessaloniki 23 and 24](https://voxxeddays.com/thessaloniki/)
+- [VoxxedDays Thessaloniki 23, 24 and 25](https://voxxeddays.com/thessaloniki/)
+- [Frontend Nation 25](https://frontendnation.com/)
 - [JSnation 22](https://jsnation.com/)
+  
 
 #### Recent Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 <!-- BLOGPOSTS:START  :books: -->
  - [Looking Back at 2024 and Setting Goals for 2025](https://eleftheriabatsou.hashnode.dev/looking-back-at-2024-and-setting-goals-for-2025)
  - [A Comprehensive Guide to Google Maps Scraping](https://eleftheriabatsou.hashnode.dev/a-comprehensive-guide-to-google-maps-scraping)
