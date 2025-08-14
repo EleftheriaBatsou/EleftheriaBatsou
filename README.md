@@ -75,6 +75,21 @@ I co-organize the [SKG JS Thessaloniki Meetup](https://www.meetup.com/skg-js)
 
 #### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+### [AI Agents: What Are They, Your Key to Smarter Coding](https://dev.to/eleftheriabatsou/ai-agents-what-are-they-your-key-to-smarter-coding-3b71)
+📅 August 14, 2025
+
+### [Your 2025 Roadmap to Becoming an AI Engineer for Free for Vue.js Developers](https://dev.to/eleftheriabatsou/your-2025-roadmap-to-becoming-an-ai-engineer-for-free-for-vuejs-developers-5dpi)
+📅 August 6, 2025
+
+### [Zoom Call Mosaic, Office Culture](https://dev.to/eleftheriabatsou/zoom-call-mosaic-office-culture-4njp)
+📅 July 27, 2025
+
+### [Is MCP the Secret to Smarter AI Coding in 2025?](https://dev.to/eleftheriabatsou/is-mcp-the-secret-to-smarter-ai-coding-in-2025-4nkg)
+📅 July 24, 2025
+
+### [AI Agents Are Here: How Developers Can Build Smarter Apps in 2025](https://dev.to/eleftheriabatsou/ai-agents-are-here-how-developers-can-build-smarter-apps-in-2025-h48)
+📅 July 18, 2025
+
 <!-- BLOG-POST-LIST:END -->
 
 
