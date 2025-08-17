@@ -93,14 +93,6 @@ I co-organize the [SKG JS Thessaloniki Meetup](https://www.meetup.com/skg-js)
 <!-- BLOG-POST-LIST:END -->
 
 
-<!-- BLOGPOSTS:START  :books: -->
- - [Looking Back at 2024 and Setting Goals for 2025](https://eleftheriabatsou.hashnode.dev/looking-back-at-2024-and-setting-goals-for-2025)
- - [A Comprehensive Guide to Google Maps Scraping](https://eleftheriabatsou.hashnode.dev/a-comprehensive-guide-to-google-maps-scraping)
- - [Bootstrap vs. Pure CSS Grid: A Comparison Guide](https://eleftheriabatsou.hashnode.dev/bootstrap-vs-pure-css-grid-a-comparison-guide)
- - [Mastering CSS Preprocessors: A Guide to Sass, Less, and Stylus](https://eleftheriabatsou.hashnode.dev/mastering-css-preprocessors-a-guide-to-sass-less-and-stylus)
- - [Understanding CSS Inheritance: A Guide to Consistent Styling](https://eleftheriabatsou.hashnode.dev/understanding-css-inheritance-a-guide-to-consistent-styling)<!-- BLOGPOSTS:END -->
----
-
 <p align='center'>
   <a href="https://twitter.com/BatsouElef" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
