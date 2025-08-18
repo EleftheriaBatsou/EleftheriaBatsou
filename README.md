@@ -75,6 +75,9 @@ I co-organize the [SKG JS Thessaloniki Meetup](https://www.meetup.com/skg-js)
 
 #### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+### [GEO: Boost Your Code for AI in 2025](https://dev.to/eleftheriabatsou/geo-boost-your-code-for-ai-in-2025-2d2o)
+📅 August 18, 2025
+
 ### [AI Agents: What Are They, Your Key to Smarter Coding](https://dev.to/eleftheriabatsou/ai-agents-what-are-they-your-key-to-smarter-coding-3b71)
 📅 August 14, 2025
 
@@ -86,9 +89,6 @@ I co-organize the [SKG JS Thessaloniki Meetup](https://www.meetup.com/skg-js)
 
 ### [Is MCP the Secret to Smarter AI Coding in 2025?](https://dev.to/eleftheriabatsou/is-mcp-the-secret-to-smarter-ai-coding-in-2025-4nkg)
 📅 July 24, 2025
-
-### [AI Agents Are Here: How Developers Can Build Smarter Apps in 2025](https://dev.to/eleftheriabatsou/ai-agents-are-here-how-developers-can-build-smarter-apps-in-2025-h48)
-📅 July 18, 2025
 
 <!-- BLOG-POST-LIST:END -->
 
