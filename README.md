@@ -75,6 +75,9 @@ I co-organize the [SKG JS Thessaloniki Meetup](https://www.meetup.com/skg-js)
 
 #### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+### [AI Fluency: Build Smarter Code](https://dev.to/eleftheriabatsou/ai-fluency-build-smarter-code-1oa2)
+📅 August 22, 2025
+
 ### [GEO: Boost Your Code for AI in 2025](https://dev.to/eleftheriabatsou/geo-boost-your-code-for-ai-in-2025-2d2o)
 📅 August 18, 2025
 
@@ -86,9 +89,6 @@ I co-organize the [SKG JS Thessaloniki Meetup](https://www.meetup.com/skg-js)
 
 ### [Zoom Call Mosaic, Office Culture](https://dev.to/eleftheriabatsou/zoom-call-mosaic-office-culture-4njp)
 📅 July 27, 2025
-
-### [Is MCP the Secret to Smarter AI Coding in 2025?](https://dev.to/eleftheriabatsou/is-mcp-the-secret-to-smarter-ai-coding-in-2025-4nkg)
-📅 July 24, 2025
 
 <!-- BLOG-POST-LIST:END -->
 
