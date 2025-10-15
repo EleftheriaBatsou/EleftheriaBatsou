@@ -32,8 +32,8 @@ I have participated as a speaker at:
 - [WebSummer 24](https://websummercamp.com/2025) in Croatia
 - [JNation 24](https://jnation.pt/) in Portugal
 - [InfosharePL 24](https://infoshare.pl/) in Poland
-> - [VoxxedDays Ioannina 24](https://ioannina.voxxeddays.com/) in Greece
-  - [CityJs 23](https://cityjsconf.org/) in Serbia
+- [VoxxedDays Ioannina 24](https://ioannina.voxxeddays.com/) in Greece
+- [CityJs 23](https://cityjsconf.org/) in Serbia
 - [WeAreDevelopers World Congress 23](https://www.wearedevelopers.com/world-congress) in Germany
 - [JNation 23](https://jnation.pt/) in Portugal
 - [Neos Conference 23](https://www.neoscon.io/) in Germany
