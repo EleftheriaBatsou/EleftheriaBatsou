@@ -71,7 +71,10 @@ I was on the program committee at:
 - [JSnation 22](https://jsnation.com/)
 
 I co-organize the [SKG JS Thessaloniki Meetup](https://www.meetup.com/skg-js)
-  
+
+#### Recent YouTube Videos
+<!-- YOUTUBE:GRID_START -->
+<!-- YOUTUBE:GRID_END -->
 
 #### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
