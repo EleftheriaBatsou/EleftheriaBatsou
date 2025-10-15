@@ -1,4 +1,4 @@
-#### Hi there, I'm Eleftheria, a Community manager with a coding background, keen on UX research and public speaking 👋
+#### Hi there, I'm Eleftheria, a Developer Advocate, keen on UX research and public speaking 👋
 
 #### About
 I'm working in the field of tech since 2017. I like researching and getting to know how things started or how I could improve them! I like learning and sharing my knowledge about development/research/design and visual arts. I also try to promote my passions through [videos](https://www.youtube.com/c/eleftheriabatsou) and [articles](https://eleftheriabatsou.hashnode.dev/). My hobbies include travelling and working out. 
@@ -9,19 +9,19 @@ I'm working in the field of tech since 2017. I like researching and getting to k
 - I pay attention to the details and I love doing research
 - I'll offer you suggestions instead of criticism
 - I have a to-do approach
-- I'm honest, and self-motivated
+- I'm honest and self-motivated
 
 ⚡ RANDOM FACTS
 - I like funky rock music
-- I've travelled in 3 continents
+- I've travelled on 3 continents
 - I believe volunteering is a lifestyle
-- I 'm classical girl who like coffee, chocolate and flowers
+- I 'm a classical girl who likes coffee, chocolate, and flowers
 -->
 
 #### 🌱 That's me
-- Currently working as a community manager and devrel specializing in building communities, creating strategies and content for social media, organizing online (and offline) events and conferences. Previously worked at [Vue School](https://vueschool.io/), [CrabNebula](https://crabnebula.dev) and [Hashnode](https://hashnode.com).
+- Currently working as a devrel specializing in creating content, building communities, creating strategies, organizing online (and offline) events and conferences. Previously worked at [Vue School](https://vueschool.io/), [CrabNebula](https://crabnebula.dev) and [Hashnode](https://hashnode.com).
 - My studies include a master's in Graphical Art and Multimedia while I have a major in Informatics and Telecommunications of Engineering.
-- My "side projects" are creating YouTube videos, writing tech articles, mentoring code newbies etc.
+- My "side projects" are creating YouTube videos, writing tech articles, mentoring code newbies, etc.
 
 
 #### 🎤 Sometimes I speak at conferences! 
@@ -32,8 +32,8 @@ I have participated as a speaker at:
 - [WebSummer 24](https://websummercamp.com/2025) in Croatia
 - [JNation 24](https://jnation.pt/) in Portugal
 - [InfosharePL 24](https://infoshare.pl/) in Poland
-- [VoxxedDays Ioannina 24](https://ioannina.voxxeddays.com/) in Greece
-- [CityJs 23](https://cityjsconf.org/) in Serbia
+> - [VoxxedDays Ioannina 24](https://ioannina.voxxeddays.com/) in Greece
+  - [CityJs 23](https://cityjsconf.org/) in Serbia
 - [WeAreDevelopers World Congress 23](https://www.wearedevelopers.com/world-congress) in Germany
 - [JNation 23](https://jnation.pt/) in Portugal
 - [Neos Conference 23](https://www.neoscon.io/) in Germany
