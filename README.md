@@ -79,6 +79,9 @@ I co-organize the [SKG JS Thessaloniki Meetup](https://www.meetup.com/skg-js)
 
 #### Recent Blog Posts
 <!-- BLOG-POST-LIST:START -->
+### [Keep Your GitHub Profile in Sync with Your YouTube Playlist (Updates Automatically)](https://dev.to/eleftheriabatsou/keep-your-github-profile-in-sync-with-your-youtube-playlist-updates-automatically-48gh)
+📅 October 17, 2025
+
 ### [Get Notifications on Telegram Every Time Your Favorite X Account Tweets](https://dev.to/eleftheriabatsou/get-notifications-on-telegram-every-time-your-favorite-x-account-tweets-139b)
 📅 September 29, 2025
 
@@ -90,9 +93,6 @@ I co-organize the [SKG JS Thessaloniki Meetup](https://www.meetup.com/skg-js)
 
 ### [AI Agents: What Are They, Your Key to Smarter Coding](https://dev.to/eleftheriabatsou/ai-agents-what-are-they-your-key-to-smarter-coding-3b71)
 📅 August 14, 2025
-
-### [Your 2025 Roadmap to Becoming an AI Engineer for Free for Vue.js Developers](https://dev.to/eleftheriabatsou/your-2025-roadmap-to-becoming-an-ai-engineer-for-free-for-vuejs-developers-5dpi)
-📅 August 6, 2025
 
 <!-- BLOG-POST-LIST:END -->
 
