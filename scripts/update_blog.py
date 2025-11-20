@@ -4,7 +4,7 @@ import sys
 import json
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timezone
 from dateutil import parser as dateparser
 
 README_PATH = "README.md"
@@ -19,12 +19,18 @@ TIMEOUT = 20
 
 session = requests.Session()
 session.headers.update({
-    "User-Agent": "GitHubAction/UpdateRecentPosts (+https://github.com/EleftheriaBatsou)"
-})
-session.headers.update({
+    # A more robust UA helps some CDNs
     "User-Agent": "Mozilla/5.0 (compatible; GitHubAction; +https://github.com/EleftheriaBatsou)",
-    "Accept-Language": "en"
+    "Accept-Language": "en",
 })
+
+def normalize_date(dt):
+    if not dt:
+        return None
+    # Make all datetimes timezone-aware in UTC
+    if dt.tzinfo is None:
+        return dt.replace(tzinfo=timezone.utc)
+    return dt.astimezone(timezone.utc)
 
 def fetch_devto_posts():
     url = f"https://dev.to/api/articles?username={DEVTO_USERNAME}"
@@ -33,12 +39,12 @@ def fetch_devto_posts():
     data = resp.json()
     posts = []
     for item in data:
-        # Use published_at, cover_image, title, url
         published = item.get("published_at") or item.get("created_at")
         try:
-            dt = dateparser.parse(published)
+            dt_raw = dateparser.parse(published)
         except Exception:
-            dt = None
+            dt_raw = None
+        dt = normalize_date(dt_raw)
         posts.append({
             "source": "dev.to",
             "title": item.get("title") or "",
@@ -50,6 +56,7 @@ def fetch_devto_posts():
     return posts
 
 def fetch_cosine_author_posts():
+    # Fetch blog index
     resp = session.get(COSINE_BLOG_INDEX, timeout=TIMEOUT)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
@@ -58,7 +65,7 @@ def fetch_cosine_author_posts():
     links = set()
     for a in soup.select("a[href^='/blog/']"):
         href = a.get("href", "").strip()
-        # Only include direct blog post paths (e.g. /blog/slug)
+        # Only include direct blog post paths (e.g., /blog/slug)
         if href and href.count("/") >= 2 and not href.rstrip("/").endswith("/blog"):
             full = f"https://cosine.sh{href}" if href.startswith("/") else href
             links.add(full)
@@ -101,24 +108,27 @@ def fetch_cosine_author_posts():
                             break
                 # list of things
                 elif isinstance(data, list):
+                    found = False
                     for item in data:
                         if isinstance(item, dict):
                             a = item.get("author")
                             if isinstance(a, dict) and a.get("name"):
                                 author = a["name"].strip()
+                                found = True
                                 break
                             if isinstance(a, list) and a:
                                 entry = a[0]
                                 if isinstance(entry, dict) and entry.get("name"):
                                     author = entry["name"].strip()
+                                    found = True
                                     break
-                    if author:
+                    if found:
                         break
 
         # 3) Fallback: exact match string anywhere in the page
         page_text = page.get_text(" ", strip=True)
-        if not author and "Eleftheria Batsou" in page_text:
-            author = "Eleftheria Batsou"
+        if not author and AUTHOR_NAME in page_text:
+            author = AUTHOR_NAME
 
         if not author or AUTHOR_NAME.lower() not in author.lower():
             continue  # Not your post
@@ -140,6 +150,7 @@ def fetch_cosine_author_posts():
         # Date
         dt = None
         date_str = ""
+        # Try meta article:published_time
         pub_meta = page.find("meta", property="article:published_time")
         if pub_meta and pub_meta.get("content"):
             try:
@@ -161,7 +172,7 @@ def fetch_cosine_author_posts():
 
         # Fallback: scan text for "Month Day, Year"
         if not dt:
-            m = re.search(r"(January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2},\\s+\\d{4}", page_text)
+            m = re.search(r"(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},\s+\d{4}", page_text)
             if m:
                 candidate = m.group(0)
                 try:
@@ -169,6 +180,7 @@ def fetch_cosine_author_posts():
                 except Exception:
                     date_str = candidate
 
+        dt = normalize_date(dt)
         if dt and not date_str:
             date_str = dt.strftime("%Y-%m-%d")
 
@@ -213,55 +225,3 @@ def render_markdown(posts):
         lines.append(f"  [{p['title']}]({p['url']})")
         lines.append(f"  ")
         lines.append(f"  Source: {p['source']} • {date_md}")
-        lines.append("")
-    lines.append("")
-    # Add a small note
-    lines.append("_Auto-updated daily from dev.to and cosine.sh/blog_")
-    lines.append("")
-    return "\n".join(lines)
-
-def update_readme_section(new_content):
-    if not os.path.exists(README_PATH):
-        print("README.md not found.", file=sys.stderr)
-        sys.exit(1)
-
-    with open(README_PATH, "r", encoding="utf-8") as f:
-        readme = f.read()
-
-    if START_MARK not in readme or END_MARK not in readme:
-        print("Markers not found in README.md. Please add the markers to enable updates.", file=sys.stderr)
-        sys.exit(1)
-
-    pattern = re.compile(
-        re.escape(START_MARK) + r"(.*?)" + re.escape(END_MARK),
-        re.DOTALL
-    )
-    updated = pattern.sub(
-        START_MARK + "\n" + new_content + "\n" + END_MARK,
-        readme
-    )
-
-    if updated != readme:
-        with open(README_PATH, "w", encoding="utf-8") as f:
-            f.write(updated)
-        print("README.md updated.")
-    else:
-        print("README.md already up to date.")
-
-def main():
-    devto = fetch_devto_posts()
-    cosine = fetch_cosine_author_posts()
-    all_posts = devto + cosine
-
-    # Sort by date desc; fall back to current time if missing
-    def sort_key(p):
-        return p["date"] or datetime.min
-
-    all_posts.sort(key=sort_key, reverse=True)
-    latest = all_posts[:MAX_POSTS]
-
-    md = render_markdown(latest)
-    update_readme_section(md)
-
-if __name__ == "__main__":
-    main()
