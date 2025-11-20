@@ -77,24 +77,10 @@ I co-organize the [SKG JS Thessaloniki Meetup](https://www.meetup.com/skg-js)
 <table><tr><td align="center" valign="top" width="50%">  <a href="https://www.youtube.com/watch?v=y9jBKpG6ei8" target="_blank" rel="noopener noreferrer">    <img src="https://i.ytimg.com/vi/y9jBKpG6ei8/hqdefault.jpg" alt="Cosine, Codex or Windsurf: Which AI Tool Delivers the Best DX Inside VS Code?" style="width:100%; max-width:320px; border-radius:8px;" />  </a>  <br/>  <a href="https://www.youtube.com/watch?v=y9jBKpG6ei8" target="_blank" rel="noopener noreferrer"><strong>Cosine, Codex or Windsurf: Which AI Tool Delivers the Best DX Inside VS Code?</strong></a>  <br/><em>2025-11-17</em></td><td align="center" valign="top" width="50%">  <a href="https://www.youtube.com/watch?v=2G_RTyidWHw" target="_blank" rel="noopener noreferrer">    <img src="https://i.ytimg.com/vi/2G_RTyidWHw/hqdefault.jpg" alt="7 Projects You Can Build With Cosine" style="width:100%; max-width:320px; border-radius:8px;" />  </a>  <br/>  <a href="https://www.youtube.com/watch?v=2G_RTyidWHw" target="_blank" rel="noopener noreferrer"><strong>7 Projects You Can Build With Cosine</strong></a>  <br/><em>2025-11-13</em></td></tr><tr><td align="center" valign="top" width="50%">  <a href="https://www.youtube.com/watch?v=HQMaqbmGevs" target="_blank" rel="noopener noreferrer">    <img src="https://i.ytimg.com/vi/HQMaqbmGevs/hqdefault.jpg" alt="Making Tasks Truly Mobile: Cosine’s Responsive Redesign" style="width:100%; max-width:320px; border-radius:8px;" />  </a>  <br/>  <a href="https://www.youtube.com/watch?v=HQMaqbmGevs" target="_blank" rel="noopener noreferrer"><strong>Making Tasks Truly Mobile: Cosine’s Responsive Redesign</strong></a>  <br/><em>2025-11-03</em></td><td align="center" valign="top" width="50%">  <a href="https://www.youtube.com/watch?v=trsBFiBmVSE" target="_blank" rel="noopener noreferrer">    <img src="https://i.ytimg.com/vi/trsBFiBmVSE/hqdefault.jpg" alt="Building A Website with Cosine's VS Code Extension" style="width:100%; max-width:320px; border-radius:8px;" />  </a>  <br/>  <a href="https://www.youtube.com/watch?v=trsBFiBmVSE" target="_blank" rel="noopener noreferrer"><strong>Building A Website with Cosine's VS Code Extension</strong></a>  <br/><em>2025-10-31</em></td></tr></table>
 <!-- YOUTUBE:GRID_END -->
 
-#### Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-### [Keep Your GitHub Profile in Sync with Your YouTube Playlist (Updates Automatically)](https://dev.to/eleftheriabatsou/keep-your-github-profile-in-sync-with-your-youtube-playlist-updates-automatically-48gh)
-📅 October 17, 2025
+## Recent Blog Posts
 
-### [Get Notifications on Telegram Every Time Your Favorite X Account Tweets](https://dev.to/eleftheriabatsou/get-notifications-on-telegram-every-time-your-favorite-x-account-tweets-139b)
-📅 September 29, 2025
-
-### [AI Fluency: Build Smarter Code](https://dev.to/eleftheriabatsou/ai-fluency-build-smarter-code-1oa2)
-📅 August 22, 2025
-
-### [GEO: Boost Your Code for AI in 2025](https://dev.to/eleftheriabatsou/geo-boost-your-code-for-ai-in-2025-2d2o)
-📅 August 18, 2025
-
-### [AI Agents: What Are They, Your Key to Smarter Coding](https://dev.to/eleftheriabatsou/ai-agents-what-are-they-your-key-to-smarter-coding-3b71)
-📅 August 14, 2025
-
-<!-- BLOG-POST-LIST:END -->
+<!-- recent-blog-posts start -->
+<!-- recent-blog-posts end -->
 
 
 <p align='center'>
