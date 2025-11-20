@@ -8,6 +8,7 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timezone
 from dateutil import parser as dateparser
+import xml.etree.ElementTree as ET
 
 README_PATH = "README.md"
 START_MARK = "<!-- recent-blog-posts start -->"
@@ -17,6 +18,8 @@ DEVTO_USERNAME = "eleftheriabatsou"
 COSINE_BLOG_INDEX = "https://cosine.sh/blog"
 COSINE_SITEMAP = "https://cosine.sh/sitemap.xml"
 AUTHOR_NAME = "Eleftheria Batsou"
+AUTHOR_ROLE = "Developer Advocate"
+AUTHOR_TWITTER_HANDLE = "BatsouElef"  # used for x.com handle proximity check
 MAX_POSTS = 6
 TIMEOUT = 20
 
@@ -24,6 +27,13 @@ VERBOSE = os.getenv("RECENT_BLOG_VERBOSE", "").lower() in {"1", "true", "yes"}
 
 # Optional manual fallback: comma-separated list of Cosine post URLs you know are yours
 COSINE_AUTHOR_URLS = [u.strip() for u in os.getenv("COSINE_AUTHOR_URLS", "").split(",") if u.strip()]
+
+# Hardcode a few known-good links you provided (unioned with discovered links)
+DEFAULT_KNOWN_COSINE = {
+    "https://cosine.sh/blog/cosine-vs-codex-vs-windsurf",
+    "https://cosine.sh/blog/projects-you-can-build-with-cosine",
+    "https://cosine.sh/blog/ai-coding-tools-comparison",
+}
 
 session = requests.Session()
 session.headers.update({
@@ -39,7 +49,6 @@ def log(msg):
 def normalize_text(s):
     if not s:
         return ""
-    # Normalize Unicode (handle non-breaking spaces, etc.), collapse whitespace
     s = unicodedata.normalize("NFKC", s)
     s = s.replace("\u00A0", " ")
     s = re.sub(r"\s+", " ", s)
@@ -112,13 +121,18 @@ def get_cosine_links_from_sitemap():
     resp = safe_get(COSINE_SITEMAP)
     if not resp:
         return set()
-    soup = BeautifulSoup(resp.text, "xml")
     links = set()
-    for loc in soup.find_all("loc"):
-        url = (loc.get_text() or "").strip()
-        if "/blog/" in url:
-            links.add(url)
-    log(f"[INFO] Cosine sitemap blog links found: {len(links)}")
+    try:
+        root = ET.fromstring(resp.text)
+        # Find all <loc> regardless of namespace
+        for loc in root.iter():
+            if loc.tag.endswith("loc"):
+                url = (loc.text or "").strip()
+                if "/blog/" in url:
+                    links.add(url)
+        log(f"[INFO] Cosine sitemap blog links found: {len(links)}")
+    except Exception as e:
+        log(f"[WARN] sitemap parse error: {e}")
     return links
 
 def detect_author(page):
@@ -165,12 +179,14 @@ def detect_author(page):
                         if isinstance(entry, dict) and entry.get("name"):
                             return normalize_text(entry["name"])
 
-    # Visible text fallback
+    # Visible text fallback: require name, role, and (optionally) twitter handle proximity
     page_text = normalize_text(page.get_text(" "))
-    # Require both tokens in order, tolerant of extra text around
-    if re.search(r"Eleftheria\s+Batsou", page_text, flags=re.IGNORECASE):
-        return AUTHOR_NAME
+    name_match = re.search(r"Eleftheria\s+Batsou", page_text, flags=re.IGNORECASE)
+    role_match = re.search(r"Developer\s+Advocate", page_text, flags=re.IGNORECASE)
+    twitter_match = re.search(rf"(x\.com|twitter\.com)/{re.escape(AUTHOR_TWITTER_HANDLE)}", page_text, flags=re.IGNORECASE)
 
+    if name_match and (role_match or twitter_match):
+        return AUTHOR_NAME
     return None
 
 def parse_post_page(url):
@@ -262,11 +278,11 @@ def fetch_cosine_author_posts():
     index_links = get_cosine_links_from_index()
     sitemap_links = get_cosine_links_from_sitemap()
     manual_links = set(COSINE_AUTHOR_URLS)
-    links = sorted(index_links.union(sitemap_links).union(manual_links))
+    links = sorted(index_links.union(sitemap_links).union(DEFAULT_KNOWN_COSINE).union(manual_links))
 
     posts = []
     for url in links:
-        time.sleep(0.3)  # be gentle
+        time.sleep(0.25)  # be gentle
         p = parse_post_page(url)
         if p:
             posts.append(p)
@@ -275,11 +291,10 @@ def fetch_cosine_author_posts():
     return posts
 
 def render_markdown_grid(posts):
-    # HTML grid: 2 columns x ceil(n/2) rows; images width-limited
-    # GitHub README supports raw HTML.
+    # HTML grid: 2 columns x 3 rows; images width-limited to 280px
     rows = []
-    # pad to even for pairing
     items = posts[:MAX_POSTS]
+    # pad to even number for pairing
     if len(items) % 2 == 1:
         items.append({"title": "", "url": "", "cover_image": "", "source": "", "date_str": ""})
 
@@ -301,7 +316,7 @@ def render_markdown_grid(posts):
     html.append("### Recent Articles")
     html.append("")
     html.append("<table>")
-    for r in rows[:3]:  # ensure 3 rows max
+    for r in rows[:3]:  # 3 rows max
         html.append(r)
     html.append("</table>")
     html.append("")
