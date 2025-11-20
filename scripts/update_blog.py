@@ -21,6 +21,10 @@ session = requests.Session()
 session.headers.update({
     "User-Agent": "GitHubAction/UpdateRecentPosts (+https://github.com/EleftheriaBatsou)"
 })
+session.headers.update({
+    "User-Agent": "Mozilla/5.0 (compatible; GitHubAction; +https://github.com/EleftheriaBatsou)",
+    "Accept-Language": "en"
+})
 
 def fetch_devto_posts():
     url = f"https://dev.to/api/articles?username={DEVTO_USERNAME}"
@@ -46,78 +50,86 @@ def fetch_devto_posts():
     return posts
 
 def fetch_cosine_author_posts():
-    # Fetch blog index
     resp = session.get(COSINE_BLOG_INDEX, timeout=TIMEOUT)
     resp.raise_for_status()
     soup = BeautifulSoup(resp.text, "html.parser")
-    # Collect article links from index
-    links = []
+
+    # Collect canonical blog post links
+    links = set()
     for a in soup.select("a[href^='/blog/']"):
-        href = a.get("href", "")
-        # Filter only canonical blog post paths (avoid tag pages etc.)
-        if href.count("/") >= 2:
+        href = a.get("href", "").strip()
+        # Only include direct blog post paths (e.g. /blog/slug)
+        if href and href.count("/") >= 2 and not href.rstrip("/").endswith("/blog"):
             full = f"https://cosine.sh{href}" if href.startswith("/") else href
-            if full not in links:
-                links.append(full)
+            links.add(full)
 
     posts = []
-    # Visit each link, extract author, title, date, cover image via og tags or JSON-LD
-    for url in links:
+    for url in sorted(links):
         try:
             r = session.get(url, timeout=TIMEOUT)
             r.raise_for_status()
         except Exception:
             continue
+
         page = BeautifulSoup(r.text, "html.parser")
 
-        # Author detection: byline text or meta
+        # Robust author detection
         author = None
-        # Common patterns: rel=author, byline, meta name="author", JSON-LD
-        # Try meta first
+
+        # 1) meta[name="author"]
         meta_author = page.find("meta", attrs={"name": "author"})
         if meta_author and meta_author.get("content"):
             author = meta_author["content"].strip()
-        if not author:
-            # rel=author links
-            rel_author = page.select_one("a[rel='author']")
-            if rel_author:
-                author = rel_author.get_text(strip=True)
-        if not author:
-            # byline text
-            byline = page.find(string=re.compile(r"by\s+", re.I))
-            if byline:
-                # crude extraction
-                m = re.search(r"by\s+(.+)", byline, re.I)
-                if m:
-                    author = m.group(1).strip()
 
-        # Fallback: JSON-LD
+        # 2) JSON-LD script(s)
         if not author:
             for ld in page.find_all("script", type="application/ld+json"):
                 try:
                     data = json.loads(ld.string or "")
-                    if isinstance(data, dict):
-                        a = data.get("author")
-                        if isinstance(a, dict):
-                            author = a.get("name")
-                        elif isinstance(a, list) and a:
-                            entry = a[0]
-                            if isinstance(entry, dict):
-                                author = entry.get("name")
                 except Exception:
-                    pass
+                    continue
+                # dict form
+                if isinstance(data, dict):
+                    a = data.get("author")
+                    if isinstance(a, dict) and a.get("name"):
+                        author = a["name"].strip()
+                        break
+                    if isinstance(a, list) and a:
+                        entry = a[0]
+                        if isinstance(entry, dict) and entry.get("name"):
+                            author = entry["name"].strip()
+                            break
+                # list of things
+                elif isinstance(data, list):
+                    for item in data:
+                        if isinstance(item, dict):
+                            a = item.get("author")
+                            if isinstance(a, dict) and a.get("name"):
+                                author = a["name"].strip()
+                                break
+                            if isinstance(a, list) and a:
+                                entry = a[0]
+                                if isinstance(entry, dict) and entry.get("name"):
+                                    author = entry["name"].strip()
+                                    break
+                    if author:
+                        break
+
+        # 3) Fallback: exact match string anywhere in the page
+        page_text = page.get_text(" ", strip=True)
+        if not author and "Eleftheria Batsou" in page_text:
+            author = "Eleftheria Batsou"
 
         if not author or AUTHOR_NAME.lower() not in author.lower():
-            continue  # Not Eleftheria's post
+            continue  # Not your post
 
         # Title
         title = None
-        if page.title and page.title.string:
+        og_title = page.find("meta", property="og:title")
+        if og_title and og_title.get("content"):
+            title = og_title["content"].strip()
+        if not title and page.title and page.title.string:
             title = page.title.string.strip()
-        if not title:
-            og_title = page.find("meta", property="og:title")
-            if og_title and og_title.get("content"):
-                title = og_title["content"].strip()
         if not title:
             h1 = page.find("h1")
             if h1:
@@ -128,36 +140,35 @@ def fetch_cosine_author_posts():
         # Date
         dt = None
         date_str = ""
-        # Try meta article:published_time
         pub_meta = page.find("meta", property="article:published_time")
         if pub_meta and pub_meta.get("content"):
             try:
                 dt = dateparser.parse(pub_meta["content"])
             except Exception:
                 date_str = pub_meta["content"]
+
         if not dt:
-            # time tag
             time_el = page.find("time")
-            if time_el:
-                # try datetime attr first
-                datetime_attr = time_el.get("datetime")
-                text = time_el.get_text(strip=True)
-                candidate = datetime_attr or text
+            candidate = (
+                (time_el.get("datetime") if time_el else None)
+                or (time_el.get_text(strip=True) if time_el else None)
+            )
+            if candidate:
                 try:
                     dt = dateparser.parse(candidate)
                 except Exception:
-                    date_str = candidate or ""
+                    date_str = candidate
+
+        # Fallback: scan text for "Month Day, Year"
         if not dt:
-            # JSON-LD
-            for ld in page.find_all("script", type="application/ld+json"):
+            m = re.search(r"(January|February|March|April|May|June|July|August|September|October|November|December)\\s+\\d{1,2},\\s+\\d{4}", page_text)
+            if m:
+                candidate = m.group(0)
                 try:
-                    data = json.loads(ld.string or "")
-                    if isinstance(data, dict) and data.get("datePublished"):
-                        candidate = data["datePublished"]
-                        dt = dateparser.parse(candidate)
-                        break
+                    dt = dateparser.parse(candidate)
                 except Exception:
-                    pass
+                    date_str = candidate
+
         if dt and not date_str:
             date_str = dt.strftime("%Y-%m-%d")
 
@@ -171,10 +182,9 @@ def fetch_cosine_author_posts():
             if twitter_img and twitter_img.get("content"):
                 cover = twitter_img["content"].strip()
         if not cover:
-            # try first image in article
             img = page.select_one("article img") or page.find("img")
             if img and img.get("src"):
-                src = img["src"]
+                src = img["src"].strip()
                 cover = src if src.startswith("http") else f"https://cosine.sh{src}" if src.startswith("/") else src
 
         posts.append({
