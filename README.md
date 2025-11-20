@@ -80,6 +80,42 @@ I co-organize the [SKG JS Thessaloniki Meetup](https://www.meetup.com/skg-js)
 ## Recent Blog Posts
 
 <!-- recent-blog-posts start -->
+
+### Recent Articles
+
+- ![cover](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F8mm62dmjx3cyhi4xvb45.jpeg) 
+  
+  [Keep Your GitHub Profile in Sync with Your YouTube Playlist (Updates Automatically)](https://dev.to/eleftheriabatsou/keep-your-github-profile-in-sync-with-your-youtube-playlist-updates-automatically-48gh)
+  
+  Source: dev.to • 2025-10-17
+
+- ![cover](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6k0dfsxq7tb3eet3p4gn.jpeg) 
+  
+  [Get Notifications on Telegram Every Time Your Favorite X Account Tweets](https://dev.to/eleftheriabatsou/get-notifications-on-telegram-every-time-your-favorite-x-account-tweets-139b)
+  
+  Source: dev.to • 2025-09-29
+
+- ![cover](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fxsneuyrqzabquolr9qhh.png) 
+  
+  [AI Fluency: Build Smarter Code](https://dev.to/eleftheriabatsou/ai-fluency-build-smarter-code-1oa2)
+  
+  Source: dev.to • 2025-08-22
+
+- ![cover](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3xo0vogmwyr7q40u8eva.png) 
+  
+  [GEO: Boost Your Code for AI in 2025](https://dev.to/eleftheriabatsou/geo-boost-your-code-for-ai-in-2025-2d2o)
+  
+  Source: dev.to • 2025-08-18
+
+- ![cover](https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fwuf6tbkciwjvv6doj0df.png) 
+  
+  [AI Agents: What Are They, Your Key to Smarter Coding](https://dev.to/eleftheriabatsou/ai-agents-what-are-they-your-key-to-smarter-coding-3b71)
+  
+  Source: dev.to • 2025-08-14
+
+
+_Auto-updated daily from dev.to and cosine.sh/blog_
+
 <!-- recent-blog-posts end -->
 
 
