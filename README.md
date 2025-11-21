@@ -19,15 +19,16 @@ I'm working in the field of tech since 2017. I like researching and getting to k
 -->
 
 #### 🌱 That's me
-- Currently working as a devrel specializing in creating content, building communities, creating strategies, organizing online (and offline) events and conferences. Previously worked at [Vue School](https://vueschool.io/), [CrabNebula](https://crabnebula.dev) and [Hashnode](https://hashnode.com).
-- My studies include a master's in Graphical Art and Multimedia while I have a major in Informatics and Telecommunications of Engineering.
+- Currently working as a devrel specialising in creating content, building communities, creating strategies, organizing online (and offline) events and conferences. Previously worked at [Vue School](https://vueschool.io/), [CrabNebula](https://crabnebula.dev) and [Hashnode](https://hashnode.com).
+- My studies include a master's in Graphical Art and Multimedia, while I have a major in Informatics and Telecommunications of Engineering.
 - My "side projects" are creating YouTube videos, writing tech articles, mentoring code newbies, etc.
 
 
 #### 🎤 Sometimes I speak at conferences! 
-At first, it can be quite nerve-racking but after you meet a few people you forget your worries and start having fun.
+At first, it can be quite nerve-racking but after you meet a few people, you forget your worries and start having fun.
 
 I have participated as a speaker at:
+- [SKJ JS 25](https://www.meetup.com/skg-js/events/311173640/?eventOrigin=group_past_events) in Greece
 - [Shift Conference 24](https://shift.infobip.com/) in Croatia
 - [WebSummer 24](https://websummercamp.com/2025) in Croatia
 - [JNation 24](https://jnation.pt/) in Portugal
@@ -43,17 +44,17 @@ I have participated as a speaker at:
 - [Init Conference 22](https://edvawzm-modules.xing-events.com/INIT2022.html) in Bosnia & Herzegovina 
 - [Voxxed Days Thessaloniki 22](https://voxxeddays.com/thessaloniki/) in Greece
 - [Codegarden22](https://codegarden.umbraco.com/) in Denmark
-- [JS World Conference 22](https://jsworldconference.com/) in Holland
+- [JS World Conference 22](https://jsworldconference.com/) in the Netherlands
 - [CityJS Athens 22](https://greece.cityjsconf.org/) in Greece
 - [BeJS22](https://www.bejs.io/conf) in Belgium
-- [NDC Porto22](https://ndcporto.com/agenda?day=2022-04-29) in Portuguese
+- [NDC Porto22](https://ndcporto.com/agenda?day=2022-04-29) in Portugal
 - [jsday](https://2022.jsday.it/) in Italy
 - [ConFrontJs22](https://confrontjs.com/) in Poland
 - [NDC Oslo21](https://ndcoslo.com) in Norway
 - [Angular-Up](https://www.angular-up.com) in Israel
 - [InfoShiftBip](https://shift.infobip.com) in Croatia
 - [PyOdessa](https://pyconodessa.com) in Ukraine
-- [Covalence](http://www.covalenceconf.com) in San Francisco 
+- [Covalence](http://www.covalenceconf.com) in San Fransisco 
 - [Confrontjs](https://2019.confrontjs.com) in Poland 
 - [Devops Unicorns](https://2019.devopsunicorns.com) in Latvia 
 - [CFCamp](https://www.cfcamp.org) in Germany
@@ -69,6 +70,8 @@ I was on the program committee at:
 - [VoxxedDays Thessaloniki 23, 24 and 25](https://voxxeddays.com/thessaloniki/)
 - [Frontend Nation 25](https://frontendnation.com/)
 - [JSnation 22](https://jsnation.com/)
+
+I've been an MC for Frontend Nation, React Day, and Angular Day organized by [BitterBrains](https://bitterbrains.com/).
 
 I co-organize the [SKG JS Thessaloniki Meetup](https://www.meetup.com/skg-js)
 
