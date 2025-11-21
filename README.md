@@ -79,7 +79,7 @@ I co-organize the [SKG JS Thessaloniki Meetup](https://www.meetup.com/skg-js)
 
 <!-- recent-blog-posts start -->
 
-## Recent Articles
+### Recent Articles
 
 <table>
 <tr><td valign='top' style='padding:8px;'><img src="https://images.ctfassets.net/bg0iwbsenifg/kuxaQcvjmV0WOsx1AEXIt/93e5f5587cb47bee787b6bd28c5e69d1/Which_AI_Tool_Delivers.png?w=1200&fit=scale&fm=png" alt="cover" style="width:280px; max-width:100%; border-radius:8px;" /><div style='margin-top:6px; font-weight:600;'><a href="https://cosine.sh/blog/cosine-vs-codex-vs-windsurf">Which AI Tool Delivers the Best Developer Experience Inside VS Code: Cosine, Codex or Windsurf?</a></div><div style='color:#666;'>Cosine • 2025-11-17</div></td><td valign='top' style='padding:8px;'><img src="https://images.ctfassets.net/bg0iwbsenifg/6oIVNaXNADdmomUKWkz19z/211e84c8b85015b499e871ede300f6fc/Blog__1_.png?w=1200&fit=scale&fm=png" alt="cover" style="width:280px; max-width:100%; border-radius:8px;" /><div style='margin-top:6px; font-weight:600;'><a href="https://cosine.sh/blog/projects-you-can-build-with-cosine">7 Projects You Can Build With Cosine</a></div><div style='color:#666;'>Cosine • 2025-11-13</div></td></tr>
