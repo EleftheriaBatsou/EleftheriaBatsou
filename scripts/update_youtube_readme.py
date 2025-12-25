@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 from typing import List, Dict
 
 PLAYLIST_ID = os.getenv("PLAYLIST_ID", "").strip()
-MAX_ITEMS = int(os.getenv("MAX_ITEMS", "4"))
+MAX_ITEMS = int(os.getenv("MAX_ITEMS", "6"))
 README_PATH = os.getenv("README_PATH", "README.md")
 START_MARK = os.getenv("START_MARK", "<!-- YOUTUBE:GRID_START -->")
 END_MARK = os.getenv("END_MARK", "<!-- YOUTUBE:GRID_END -->")
