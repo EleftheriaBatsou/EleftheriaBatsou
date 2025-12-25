@@ -19,7 +19,7 @@ jobs:
 
       - name: Update README with latest YouTube videos
         env:
-          PLAYLIST_ID: WwYv3DEW7Nkm_IP6VeQQ
+          PLAYLIST_ID: UUC-WwYv3DEW7Nkm_IP6VeQQ
           MAX_ITEMS: "6"
           README_PATH: "README.md"
           START_MARK: "<!-- YOUTUBE:GRID_START -->"
