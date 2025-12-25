@@ -20,7 +20,7 @@ jobs:
       - name: Update README with latest YouTube videos
         env:
           PLAYLIST_ID: PLxktx98zP3aC8GM3HVRylRZYnCJeZ96vE
-          MAX_ITEMS: "4"
+          MAX_ITEMS: "6"
           README_PATH: "README.md"
           START_MARK: "<!-- YOUTUBE:GRID_START -->"
           END_MARK: "<!-- YOUTUBE:GRID_END -->"
