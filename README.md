@@ -19,7 +19,7 @@ I'm working in the field of tech since 2017. I like researching and getting to k
 -->
 
 #### 🌱 That's me
-- Currently working as a devrel specialising in creating content, building communities, creating strategies, organizing online (and offline) events and conferences. Previously worked at [Cosine](cosine.sh), [Vue School](https://vueschool.io/), [CrabNebula](https://crabnebula.dev) and [Hashnode](https://hashnode.com).
+- Currently working as a devrel specialising in creating content, building communities, creating strategies, organizing online (and offline) events and conferences. Previously worked at [Cosine](https://cosine.sh), [Vue School](https://vueschool.io/), [CrabNebula](https://crabnebula.dev) and [Hashnode](https://hashnode.com).
 - My studies include a master's in Graphical Art and Multimedia, while I have a major in Informatics and Telecommunications of Engineering.
 - My "side projects" are creating YouTube videos, writing tech articles, mentoring code newbies, etc.
 
@@ -131,3 +131,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
