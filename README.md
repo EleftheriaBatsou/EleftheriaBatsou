@@ -28,7 +28,9 @@ I'm working in the field of tech since 2017. I like researching and getting to k
 At first, it can be quite nerve-racking but after you meet a few people, you forget your worries and start having fun.
 
 I have participated as a speaker at:
-- [SKJ JS 25](https://www.meetup.com/skg-js/events/311173640/?eventOrigin=group_past_events) in Greece
+- [Conf42 Platform Eng. 2026](https://www.youtube.com/watch?v=0ZAasoB9Zjw&t=8s), online
+- [Conf42  O11y 2026](https://www.youtube.com/watch?v=3kp5FpqwTv0&t=7s), online
+- [SKJ JS 25, 26](https://www.meetup.com/skg-js/events/311173640/?eventOrigin=group_past_events) in Greece
 - [Shift Conference 24](https://shift.infobip.com/) in Croatia
 - [WebSummer 24](https://websummercamp.com/2025) in Croatia
 - [JNation 24](https://jnation.pt/) in Portugal
@@ -71,7 +73,7 @@ I was on the program committee at:
 - [Frontend Nation 25](https://frontendnation.com/)
 - [JSnation 22](https://jsnation.com/)
 
-I've been an MC for Frontend Nation, React Day, and Angular Day organized by [BitterBrains](https://bitterbrains.com/).
+I've MC'd Frontend Nation, React Day, and Angular Day, organized by [BitterBrains](https://bitterbrains.com/) 2025 edition and [hclb 2026](https://www.hclbcommunities.com/) edition.
 
 I co-organize the [SKG JS Thessaloniki Meetup](https://www.meetup.com/skg-js)
 
